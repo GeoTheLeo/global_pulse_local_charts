@@ -1,0 +1,576 @@
+track_name,track_id,artist_name,artist_id,album_name,popularity,duration_ms,explicit,artist_genres
+Wildflower,24bzJwjGBWtGCs7xKIKQsB,Beach House,56ZTgzPBDge0OvCGgMO3OY,Depression Cherry,66,219453,False,['dream pop']
+Perfectly Out Of Place,5jtbhF7zGZR4YRMxhLV4V8,Dreams We've Had,5LkgVE79AHNZN7kMukfJFv,Everything And You,41,293454,False,['dream pop']
+After the Moment,01nIMkXQLxBmDKDtQCimM6,Craft Spells,16lg8y62dC3J6ok1pNAbFJ,After the Moment,0,243658,False,"['dream pop', 'chillwave']"
+Show Me How,01TyFEZu6mHbffsVfxgrFn,Men I Trust,3zmfs9cQwzJl575W1ZYXeT,Show Me How,3,215110,False,"['bedroom pop', 'indie pop']"
+Breathless,7MPSPxCd6aiGZwN0ro0ZSH,Small Black,1J6xqDysFw6YiQ0vMvIKds,Limits of Desire,0,226280,False,"['chillwave', 'dream pop']"
+In Absentia,4w4me43HNpoIpzrEKM1XGP,Cathedral Bells,0a7RruzBySceAPGfmFZtQ2,Velvet Spirit,0,199510,False,"['dream pop', 'shoegaze']"
+Walk in the Park,4oNXgGnumnu5oIXXyP8StH,Beach House,56ZTgzPBDge0OvCGgMO3OY,Teen Dream,0,322760,False,['dream pop']
+Anymore,26SrlxK6EhVa7EWJ6w5uhE,Surf Rock Is Dead,5iwmHxCi5pm28BEykL5Fyd,Anymore,0,197596,False,"['surf rock', 'dream pop', 'shoegaze']"
+Dizzy On the Comedown,0kCF7dfqwrw1YEf6LK0B1p,Turnover,0gLjJuczGWhqKVMmVpIT52,Peripheral Vision,0,255773,False,"['midwest emo', 'dream pop', 'pop punk']"
+Secrets,5WHrbMnpBRJCHsQUrGYmxu,The Bilinda Butchers,6TnZQyc6gSnomokLLI8mya,"Regret, Love, Guilt, Dreams",36,336521,False,"['dream pop', 'shoegaze']"
+I Don't Know You,4cJOLN346rtOty3UPACsao,The Marías,2sSGPbdZJkaSE2AbcGOACx,I Don't Know You,0,209449,False,['bedroom pop']
+Fillmore County,43rib0UYJnyrxiIkhamjlY,"Vansire, FLOOR CRY",6ft7JnxMyZhp7N52qzHymY,After Fillmore County,0,182025,False,['bedroom pop']
+Heavy Water/I'd Rather Be Sleeping,6IUwiHsyKAZtfBy37Wu4ij,Grouper,31uyAcnY0kjjKKIQZMKX4i,Dragging a Dead Deer Up a Hill,49,173026,False,"['drone', 'slowcore', 'ambient', 'dream pop']"
+Cocaine,5WNDXcsnWSzWvQl7oPIEeT,Dreams We've Had,5LkgVE79AHNZN7kMukfJFv,Dear Friend,24,364500,False,['dream pop']
+Space Song,7H0ya83CMmgFcOhw0UB6ow,Beach House,56ZTgzPBDge0OvCGgMO3OY,Depression Cherry,77,320466,False,['dream pop']
+Ghostride,476QHG5G8xxNI9VHTBFfjp,Crumb,4kSGbjWGxTchKpIxXPJv0B,Jinx,0,126120,False,"['neo-psychedelic', 'bedroom pop']"
+Jeune,51tJQf4oxTMvONqstKnqmR,Ruby Haunt,7LpofGzdLlzTnTLOFUhDD5,The Middle of Nowhere,35,258876,False,"['dream pop', 'slowcore']"
+Telephone,6xJSVfI6xi51iJrbm9KjXb,"CASTLEBEAT, Sonia Gadhia",0k8UHfMqW86uvhmhHiYzj3,Telephone,0,209274,False,"['bedroom pop', 'dream pop', 'lo-fi indie']"
+Sleep Apnea,34LohAliZ2QKydqVJcFpwV,Beach Fossils,1bwUhKRmEkOZ1wuTnV9XjC,Clash the Truth,0,146293,False,"['dream pop', 'surf rock', 'shoegaze']"
+Sodus,1cyRoWGazsa8Vr5qlDfvPP,Cemeteries,7s2GHSP1ToELf5MUqzgRqV,Barrow,54,398851,False,['dream pop']
+Sidewalk,0AruNp6u8BWaYJL60JrKdQ,Momma,5Wj0an60VgRckYV9zlDe1e,Interloper,0,185758,False,['indie rock']
+Nice to See You,7nEZZ1mWK7h98x8ENbQuqJ,"Vansire, FLOOR CRY",6ft7JnxMyZhp7N52qzHymY,Angel Youth,0,181677,False,['bedroom pop']
+Extension Cord,4fcitkwj32DFTkqMUGONUu,Fog Lake,04GCjO1r1hPelibCUq9S8H,Farther Reaches,0,190407,False,"['slowcore', 'lo-fi indie']"
+Nightlight Girl,3bdc7OoVK971mkwLno0cAz,Turnover,0gLjJuczGWhqKVMmVpIT52,Good Nature,0,226862,False,"['midwest emo', 'dream pop', 'pop punk']"
+Wedding Crasher,1sbipnxbVjDy3kxrAavIoX,"Dream, Ivory",0qZyvjwZauLmrobrpJmvib,Wedding Crasher,0,251405,False,[]
+Hazy,0qaEJgRNOChRTa6sS1NhJ7,VULPIX,3DTYK3Z5kuKfF4JNQG3h9l,SWARMS,30,266000,False,[]
+Relax,1GHjBjnMJQ420waXq6Ut6I,Vacations,0U7iI0Dk4Ojvi17nZboNO4,Vibes,0,158573,False,[]
+Heavenly,1Bh0UzthW8pKEnYg7v40Oa,Cigarettes After Sex,1QAJqy2dA3ihHBFIHRphZj,Cry,1,288595,False,['dream pop']
+Eclipse,4YLTFu7iyC3q34dvf5hRDq,Inner Wave,6AQEfqGPSxZX0nJVonYxi6,Eclipse,0,183633,False,[]
+Thursday,4TzJGnsfwbBCkJGeunCpVK,Asobi Seksu,7vXdfh8G9fJVGvfUSkqf62,Citrus,0,257173,False,"['shoegaze', 'dream pop', 'shibuya-kei']"
+Crashed Out,3EWRWKU5n62hhp8vgPwgfZ,Beach Fossils,1bwUhKRmEkOZ1wuTnV9XjC,Clash The Truth,0,204620,False,"['dream pop', 'surf rock', 'shoegaze']"
+Instant Love,0SYKAyKuJ44it3586U8XWS,Marble Arch,6Oy6CwwhQqijvzAjpkoazG,Children of the Slump,0,250577,False,"['dream pop', 'shoegaze']"
+Conduct 2,4jXk0iIhcLulPYZ5HU2K8P,HOUNDSds,7siqsDn4ZFMjJ9oM6vk2dE,Conduct,12,284650,False,"['dream pop', 'shoegaze', 'neo-psychedelic']"
+Old Town,0BTaF7WdhyGDuYoQJtv6vb,Say Sue Me,4tvbo17gXpYgSr8sTlkaby,Where We Were Together,29,233410,True,"['dream pop', 'jangle pop']"
+Drunk In LA,3AJsTNjbYSH4odSmP1I6ox,Beach House,56ZTgzPBDge0OvCGgMO3OY,7,0,239306,False,['dream pop']
+Football,7I2XytQ23omSfUfG7JSjYT,CQ Wrestling,5S4qUw22ZF7gTPUEx61SyC,Football,23,203902,False,[]
+Sun's Out,7M9LKoGmelhGBj5jQACPd8,Hoops,12qS7lypMdpvASeNnFXtmN,Routines,39,169016,False,"['dream pop', 'surf rock', 'jangle pop']"
+Pendulum,4DN8w5wT01BCgJQdjvMaGi,Pure Bathing Culture,4WrK3qZXMjfwl0dQj09QSD,Moon Tides,0,237582,False,"['dream pop', 'chillwave']"
+Day Dream,4gm0sPmthOSICA82Dtol6D,Beach Fossils,1bwUhKRmEkOZ1wuTnV9XjC,Beach Fossils,0,184146,False,"['dream pop', 'surf rock', 'shoegaze']"
+"Us, Together",0tx9tLDxgsFPbkwXV0mDUy,Yumi Zouma,4tPyCwWrsvZ8OKYl7QRavL,Willowbank,0,231546,False,['dream pop']
+Always,5Omjn5QunxCALPISaMJ5K6,Melted Toys,08vPDDNdELvgKzegslTm7s,Melted Toys,0,242498,False,"['dream pop', 'shoegaze']"
+Pulling Our Weight,0ANkVKMExMdJxl1g88fWJT,The Radio Dept.,0utS63XytOEVN1EtzWhJpG,Passive Aggressive: Singles 2002-2010,0,201066,False,"['dream pop', 'shoegaze']"
+Cannons,2q4gGYNmNYNyqgpVmGJH0c,Youth Lagoon,1Z2KInfSmPOzAIYyiaXeti,The Year of Hibernation,0,224773,False,"['dream pop', 'chillwave']"
+Adversity,0HPCLfG38YNyay8Erznli1,Beach Fossils,1bwUhKRmEkOZ1wuTnV9XjC,What A Pleasure,0,243306,False,"['dream pop', 'surf rock', 'shoegaze']"
+Leaves,1Rw3gR78vpdrymyM3AhZ5x,Fanclub,2XxKRqSS7wels4dpUb5N1h,Leaves,0,195480,False,"['dream pop', 'shoegaze']"
+Brain Dead,6lUJAypVpKhMznxO2sAPqd,Triathalon,2SaIA1enj83vEmJikZdjQ3,Lo-Tide,0,186910,False,['bedroom pop']
+Darling,7Lpi2otSpwKiTpFsdDKEzP,Real Estate,41SQP16hv1TioVYqdckmxT,Darling,0,260386,False,"['jangle pop', 'dream pop', 'surf rock']"
+Moving Out,5lLz6hpqvOxKJ5JEoU8otF,Vacations,0U7iI0Dk4Ojvi17nZboNO4,Moving Out,0,190500,False,[]
+Beyond the Infinite,43oYosEmgldBQfuVgDQ5F4,Brothertiger,2MaMzvFmtu68r9zpdJ4tLE,Out of Touch,0,296936,False,"['chillwave', 'synthwave', 'dream pop']"
+Société Anonyme,3Y38zzhKEvoZeWONUewG1f,Lower Dens,5uTJLo3c4ZHpH8oEwGxYUN,Escape From Evil,26,200493,False,['dream pop']
+The Brae,2Ti4s01vnOpkOsApYcE3Ia,Yumi Zouma,4tPyCwWrsvZ8OKYl7QRavL,EP,0,255988,False,['dream pop']
+Dreamgaze,6jygYHo8uOttsIs45U1YvI,CASTLEBEAT,0k8UHfMqW86uvhmhHiYzj3,CASTLEBEAT,39,165409,False,"['bedroom pop', 'dream pop', 'lo-fi indie']"
+Ontario Gothic,7dCz4BVR2DvfLBo0tabZHC,Foxes In Fiction,3GSt4ZSP1wEtdbcTTbwjpW,Ontario Gothic,0,325242,False,"['dream pop', 'shoegaze']"
+Poison Tree,6RDVwKLpBBEksWdp9jwBlD,Grouper,31uyAcnY0kjjKKIQZMKX4i,Inca Ore / Grouper,0,196893,False,"['drone', 'slowcore', 'ambient', 'dream pop']"
+Annie Blue,2CL9DIH08V6ZrpsmDMcZxM,Launder,34oS6XgB17t0Gm7623KXLh,Annie Blue,52,196328,False,"['shoegaze', 'dream pop', 'lo-fi indie']"
+Drag,0oXwUeFAE6IR2lYhaTpxRT,Day Wave,4ptJIIR10UVlGjN0VntFaK,Drag,0,189651,False,"['dream pop', 'surf rock']"
+Gold,1t3nMYYdEvbubaD5FMDglq,Marble Arch,6Oy6CwwhQqijvzAjpkoazG,Gold,0,290817,False,"['dream pop', 'shoegaze']"
+Days,716OZGLBg3vkNfMTpfbYm6,No Vacation,32zeX1IoVKAGWMyy1isKUq,Days,0,320328,False,"['bedroom pop', 'dream pop']"
+Ephemeral,1fKWgfG23FbMhgJXmpOp9A,Cathedral Bells,0a7RruzBySceAPGfmFZtQ2,Velvet Spirit,0,160000,False,"['dream pop', 'shoegaze']"
+"Crush (It's Late, Just Stay)",0jn3fksZqM7Y48xrQZNCsA,Yumi Zouma,4tPyCwWrsvZ8OKYl7QRavL,EP III,0,213293,False,['dream pop']
+In Heaven,7vKMp9RBcZHn9ZaZhy2DVv,Japanese Breakfast,7MoIc5s9KXolCBH1fy9kkw,Psychopomp,0,230322,False,[]
+Bitter Medicine,2bkOjWXPUdSxIUbd1c2WE9,Tanukichan,7d0wUlQ0ZXIGFa0YzuBiR6,Sundays,0,212680,False,"['shoegaze', 'dream pop']"
+2x2,370jeVUskG6BD6QJljNxBi,Divine Sweater,6QhdyISn8fmch9ULKyqUoH,Human Love,37,276695,False,[]
+Healthy Moon,65O6zPSisPj2AvAjaY4Bfg,DIIV,4OrizGCKhOrW6iDDJHN9xd,Is the Is Are,0,251629,False,"['shoegaze', 'dream pop']"
+Reflection,5H5oEqpRA3ARPohkT3yotf,Cathedral Bells,0a7RruzBySceAPGfmFZtQ2,Velvet Spirit,0,166000,False,"['dream pop', 'shoegaze']"
+Skating,7KsSVeIuhW0QYnrHQw5DOl,Swim Rest,0awgpMryquEuRRzTebaYEo,Vegan Metal Mouth,31,259750,False,['dream pop']
+December,38GUrVBl6kXy46GZ24eRso,Yumi Zouma,4tPyCwWrsvZ8OKYl7QRavL,December,0,235134,False,['dream pop']
+Early,6cQfMDknRIubCllrhWTdPF,CQ Wrestling,5S4qUw22ZF7gTPUEx61SyC,Early,22,250580,False,[]
+Stay With Us,3Opk9C8pMgBCmbqXelH0I5,Seoul,3e69LorE0YSsEaYY6x9XuG,I Become A Shade,2,237945,False,['dream pop']
+Out in the Way (feat. Wild Nothing),46Q055p0kvvoeIcM9iXzVP,Beach Fossils,1bwUhKRmEkOZ1wuTnV9XjC,What a Pleasure,0,232007,False,"['dream pop', 'surf rock', 'shoegaze']"
+Sunlight,5ZGxxHixxBV7j9o1uUZFKc,Yuno,36BjLtXEXIifbRrfc1Rtqa,Sunlight - Single,0,213080,False,[]
+New Map,6GdbwI8ytDROXDv1G7p34o,M83,63MQldklfxkjYDoUE4Tppz,"Hurry Up, We're Dreaming",34,262746,False,[]
+Soft Stud,2i1jIsRpjjzaV85v1fS4Hu,Black Belt Eagle Scout,1CUUXdvZE6UzwQyBUm5YVD,Mother of My Children,0,368063,False,[]
+Nocturne,1fFiMu3FP6c3kkEpZ0nvvp,Wild Nothing,6NrkINd80slV25wkBu9mEB,Nocturne,0,318960,False,"['dream pop', 'shoegaze', 'chillwave']"
+"Right, Off The Bridge",74tjwmN794NeMpgF7957No,Yumi Zouma,4tPyCwWrsvZ8OKYl7QRavL,"Right, Off The Bridge - Single",0,248291,False,['dream pop']
+Before,1BqdhRbDE6mGbYiugML9MK,Washed Out,5juOkIIy18sFw9L30syt1Z,Within and Without,0,286413,False,"['chillwave', 'dream pop']"
+Dreaming,66QzJkyag2NRX8d8R5HTpU,Say Sue Me,4tvbo17gXpYgSr8sTlkaby,It's Just A Short Walk!,23,237393,False,"['dream pop', 'jangle pop']"
+Beach,1CfstJ04dLfJZ9Qq2rPhNo,Mew,6kDMoHTcBICPILP2aclPWZ,No more stories Are told today I'm sorry They washed away No more stories The world is grey I'm tired Let's wash away,19,165333,False,['dream pop']
+Waves,1BXmmQIGaH3QtGAsG7yV2s,Echo Lake,3MPOFGhQ2bB0Yx527jthuW,Era,0,385353,False,"['dream pop', 'shoegaze', 'chillwave', 'space rock']"
+Black Hills,0IV4l6XVCM9iIt2tOTkw84,Gardens & Villa,5NgfalfOtMDHkJ0SbFAxyA,Gardens & Villa,0,286853,False,['chillwave']
+Know Me,0JaQLijrOWfRPwJQUrp8ov,Frankie Rose,44mVqYPHmFgrDJxv6CWrOo,Interstellar,0,172706,False,['dream pop']
+Barricade (Matter Of Fact),3e1Rff6j4s9IMNEPsKpaEz,Yumi Zouma,4tPyCwWrsvZ8OKYl7QRavL,Yoncalla,0,183537,False,['dream pop']
+Lazuli,0Fc8hmAuH0rHYq2Ur9t07Y,Beach House,56ZTgzPBDge0OvCGgMO3OY,Bloom,0,301866,False,['dream pop']
+Out Of Tune,2IDyBrueJ5SKlYPA0CZan6,Real Estate,41SQP16hv1TioVYqdckmxT,Days,0,291946,False,"['jangle pop', 'dream pop', 'surf rock']"
+Our Deal,5BRjl7ilBLgpJxhrRle1FT,Best Coast,5YkBrE0wF8cAlq3GCOw5Eu,Crazy For You,0,127933,False,['surf rock']
+Heart Full of Pentagons,0cWEqBpSYDRK9Aw3mNb95F,Film School,3Q5JOuj2Zs59ujPp1njIWS,Fission,19,256173,False,"['shoegaze', 'dream pop']"
+Pairs,4KHrUUWS3AxhQBooKDzfnD,Made In Japan,5Hf1eLW7R1WpP1nMhda5Uv,Sights and Sounds,18,238053,False,['dream pop']
+Fall Right In,2F63erfPWawQ2l29agdLFa,Beach Fossils,1bwUhKRmEkOZ1wuTnV9XjC,What a Pleasure,0,153485,False,"['dream pop', 'surf rock', 'shoegaze']"
+Easy,4wnUKmSNaXlURtm5m7nkJ9,Real Estate,41SQP16hv1TioVYqdckmxT,Days,0,233440,False,"['jangle pop', 'dream pop', 'surf rock']"
+Other People,2Nt4Uw91pQLXSJ28SttDdF,Beach House,56ZTgzPBDge0OvCGgMO3OY,Bloom,0,264626,False,['dream pop']
+Two Kinds,17Gp4Qf260mjouuq6CPcza,Film School,3Q5JOuj2Zs59ujPp1njIWS,Hideout,0,237733,False,"['shoegaze', 'dream pop']"
+Am I Wry? No,4PQSDHGXXxNojUC7BO6lWw,Mew,6kDMoHTcBICPILP2aclPWZ,Eggs Are Funny,18,292280,False,['dream pop']
+Shadow,0o1N4jfVOXErcR82UKxfO8,Wild Nothing,6NrkINd80slV25wkBu9mEB,Nocturne,0,258779,False,"['dream pop', 'shoegaze', 'chillwave']"
+Crime,1qrV076T6ZPUPQ2iMgI51s,Real Estate,41SQP16hv1TioVYqdckmxT,Atlas,0,195960,False,"['jangle pop', 'dream pop', 'surf rock']"
+Wild,3vZ57jnq0IgiKXkuWea37P,Beach House,56ZTgzPBDge0OvCGgMO3OY,Bloom,0,298320,False,['dream pop']
+The Trip,2BCFf69uK4HL8eOubSSrHm,Still Corners,4zKYrXs8iN4AeHmO8ZxNqp,Strange Pleasures,0,374240,False,['dream pop']
+Desire Lines,3jZ0GKAZiDMya0dZPrw8zq,Deerhunter,38zTZcuN7nFvVJ6auhc6V3,Halcyon Digest,0,404413,False,"['neo-psychedelic', 'dream pop', 'shoegaze', 'noise rock']"
+Paradise,3FOQLkdWvosfpgKsNfIB5J,Wild Nothing,6NrkINd80slV25wkBu9mEB,Nocturne,0,330893,False,"['dream pop', 'shoegaze', 'chillwave']"
+The Fall,35yZkNFNVosiHE6Uj0COVM,Rhye,2AcUPzkVWo81vumdzeLLRN,Woman,64,224680,False,[]
+It's Personal,08qrX56kp9zdeDWidJPCZk,The Radio Dept.,0utS63XytOEVN1EtzWhJpG,Pet Grief,0,218320,False,"['dream pop', 'shoegaze']"
+I Wanna Go,3EA4HwrlLdDJ3b4cX7JfqC,Summer Heart,0JlTFsR41vwvQTppOR3yio,About A Feeling,52,247572,False,"['chillwave', 'dream pop']"
+Ocean Repeating (Big-eyed Girl),1fIM60oElZPBuNTV0fqBl0,Wild Nothing,6NrkINd80slV25wkBu9mEB,Empty Estate,0,240040,False,"['dream pop', 'shoegaze', 'chillwave']"
+Party Talk,6N2kBsYvZaS7tO5awPcnSV,Craft Spells,16lg8y62dC3J6ok1pNAbFJ,Idle Labor,0,220639,False,"['dream pop', 'chillwave']"
+Weightless,51bnedhUHDZViazmNJtzqF,Washed Out,5juOkIIy18sFw9L30syt1Z,Paracosm,0,295573,False,"['chillwave', 'dream pop']"
+Drifter,2gNDXjyjAE3VFGmukcixYf,Wild Nothing,6NrkINd80slV25wkBu9mEB,Gemini,0,213366,False,"['dream pop', 'shoegaze', 'chillwave']"
+Let Down,1oUVuepLlKVvqMpvCU62eV,Bored Nothing,0w0zedaWD9qsewc0ikjD9z,Bored Nothing,0,251773,False,"['dream pop', 'shoegaze']"
+Reflection,0RDGEI7iXY4Zon0JzJF53B,Fanclub,2XxKRqSS7wels4dpUb5N1h,All the Same,0,174053,False,"['dream pop', 'shoegaze']"
+Everybody Wants to Love You,3YufkKqsssZ8wt9T24ULSj,Japanese Breakfast,7MoIc5s9KXolCBH1fy9kkw,Psychopomp,0,132631,False,[]
+Nausea,1jylZOai0G9TI6Font5Nd2,Craft Spells,16lg8y62dC3J6ok1pNAbFJ,Nausea,0,269400,False,"['dream pop', 'chillwave']"
+Clash the Truth,0E8ztdwAhGJ6KRdElKGQT4,Beach Fossils,1bwUhKRmEkOZ1wuTnV9XjC,Clash The Truth,0,123266,False,"['dream pop', 'surf rock', 'shoegaze']"
+Undertow,2BJvyF65XyGPdhaZT4H9sE,Cathedral Bells,0a7RruzBySceAPGfmFZtQ2,Undertow,25,172800,False,"['dream pop', 'shoegaze']"
+Don't Give Up,6GbUsMfAF9dFe3vLAO5am9,Washed Out,5juOkIIy18sFw9L30syt1Z,Paracosm,0,234680,False,"['chillwave', 'dream pop']"
+Daily Routine,7DZ0naWyh4SvPeoG8R4FaO,Animal Collective,4kwxTgCKMipBKhSnEstNKj,Merriweather Post Pavilion,0,346040,False,"['neo-psychedelic', 'indie rock']"
+Blue Velvet,3O7b7tz4PxF5pFTknkXpNc,Childhood,3U09GBaLizWYmJGOPlPXra,Lacuna,0,268826,False,['dream pop']
+Bless the Painter,25MelCAD6ISeCRIh8oKj6N,Engineers,3hY7jnks2m5g2JAUCw4avu,Always Returning,0,193848,False,"['shoegaze', 'dream pop']"
+Disappear Always,4dV9LNfCGzEoHixlUsxo5n,Wild Nothing,6NrkINd80slV25wkBu9mEB,Nocturne,0,209079,False,"['dream pop', 'shoegaze', 'chillwave']"
+Popcorn,1eWPK7TFW0bpEqcbUeCEr3,Bored Nothing,0w0zedaWD9qsewc0ikjD9z,Bored Nothing,8,237986,False,"['dream pop', 'shoegaze']"
+What It Is,4aMUQAbISJ4KdR3mqZgLu9,Made In Japan,5Hf1eLW7R1WpP1nMhda5Uv,Sights and Sounds,22,245720,False,['dream pop']
+156,0EuxDK2ria7tszAZdtaJWZ,Mew,6kDMoHTcBICPILP2aclPWZ,Frengers,0,293760,False,['dream pop']
+Gemini,4gbablSu3oqwlrdgwrBPkY,Wild Nothing,6NrkINd80slV25wkBu9mEB,Gemni,0,325120,False,"['dream pop', 'shoegaze', 'chillwave']"
+Back From the Grave,0SDF7K2lUUNgertEQH4qk7,Chromatics,4tOVIRjlWWfR1RrAxyRqTE,Kill for Love,0,222573,False,['dream pop']
+Varsity,11umm7K1uVhXYvKK3Tpsa8,Smith Westerns,3yEqgEvatASNm30zZR3ZHl,Soft Will,0,240493,False,[]
+Breaker,2WUKigdj6FjOwty6hQM2ii,Deerhunter,38zTZcuN7nFvVJ6auhc6V3,Fading Frontier,0,211268,False,"['neo-psychedelic', 'dream pop', 'shoegaze', 'noise rock']"
+Breaking the Angle Against the Tide,0IDku5ISIqZvrsTpCzkAI8,Craft Spells,16lg8y62dC3J6ok1pNAbFJ,Nausea,0,229477,False,"['dream pop', 'chillwave']"
+Swimming Field,5g1Izt4F2GxmVDZFPJSS4d,Memory Tapes,6jF345xlOryBwNKDbuAyN3,Seek Magic,29,207607,False,"['chillwave', 'dream pop']"
+Another Sunny Day,3omjo9CqdcjJZmcg1JzCA6,Star Tropics,0ba5E6dTc9q3UGElMrAF3i,Lost World,0,207330,False,"['jangle pop', 'dream pop', 'shoegaze']"
+Dream Shake,74FaSRytSs5BLu0HnW8fDh,Memoryhouse,0T1n7Qbe4vwYIu42mB6qXe,Dream Shake,8,213261,False,"['dream pop', 'chillwave', 'shoegaze']"
+You Could Be Different,4GN3kfwzPnPZx6rcVaU9UR,Childhood,3U09GBaLizWYmJGOPlPXra,Lacuna,0,234360,False,['dream pop']
+Into Black,5d8pKJxoDlYX2SoFR6RCsm,Blouse,58QP6z41dSgPjoiJkIjCcL,Blouse,0,208237,False,"['dream pop', 'shoegaze', 'chillwave', 'cold wave']"
+Lucky Girl,5pP3sLkAVZ03hyJ6SbsprC,Fazerdaze,2awB7Ol181cocZcLLNBBAh,Morningside,0,170996,False,"['dream pop', 'shoegaze']"
+Southern Skies,0OcP0ZD8f5paG9taHQNspu,Yuck,6l3BRLCpzfC8yxqf9thWAg,Southern Skies,32,305738,False,"['noise rock', 'shoegaze']"
+Domestic Scene,6tpahX6DwbhjAfRoI2xom1,The Radio Dept.,0utS63XytOEVN1EtzWhJpG,Clinging to a Scheme,0,145266,False,"['dream pop', 'shoegaze']"
+Covered in Shade,3VM6MAN7KCagEN0hqKB5qm,Helen,52xprCZw3i5T0Ll5wEILNF,The Original Faces,13,79360,False,"['shoegaze', 'dream pop']"
+Summer Holiday,3c1f3Kl9jbfPUv82Uy2CUM,Wild Nothing,6NrkINd80slV25wkBu9mEB,Gemini,0,242745,False,"['dream pop', 'shoegaze', 'chillwave']"
+Love Fade,5xzi36lGj5f6SpbctCpwhB,Tamaryn,3TdVTSmMfLh55VrJDUpIQ2,The Waves,0,220760,False,"['shoegaze', 'dream pop']"
+Majorette,73guNXAOFu7XB6Sby4ahCp,Beach House,56ZTgzPBDge0OvCGgMO3OY,Thank Your Lucky Stars,0,240770,False,['dream pop']
+Leave It,0Sqqo1gN4bAUDyjNmvM4F4,Marble Arch,6Oy6CwwhQqijvzAjpkoazG,Children of the Slump,0,265688,False,"['dream pop', 'shoegaze']"
+She's a Cult,3dOv8QQIA2soR55wElpb4b,Ulrika Spacek,07vC6cutbett8UknXnqxsu,She's a Cult,3,261720,False,"['neo-psychedelic', 'space rock', 'krautrock']"
+Signs To Lorelei,7qWw2fvNABDo75M33uzZL2,Cheatahs,3Rhpmh2GU7nJJduip3YZcJ,Signs To Lorelei,0,229986,False,"['shoegaze', 'dream pop']"
+A Glorious Time,61gbBOCTUKyMc0GgEy0DME,Team Ghost,6BXXt6yD472LkV5F8LxeBW,You Never Did Anything Wrong To Me,0,259386,False,"['dream pop', 'shoegaze']"
+Ravestar Supreme,1SdDW5OpzeprPbfjC3xFth,Pinkshinyultrablast,3pJuDuFyP5uxCHDpXPczf4,Ravestar Supreme,8,234758,False,"['shoegaze', 'dream pop', 'slowcore']"
+The Base of A Dream Is Empty,46o6ZqJY0nXj0LGJXhwDhD,Yuck,6l3BRLCpzfC8yxqf9thWAg,Yuck (Deluxe Edition),9,204666,False,"['noise rock', 'shoegaze']"
+Lady Blue,0fEBMAHBmkX4cdPWXuXzRe,Wild Nothing,6NrkINd80slV25wkBu9mEB,Life of Pause,0,300093,False,"['dream pop', 'shoegaze', 'chillwave']"
+Limits of Desire,266j4fCyIUXECBch8zE8YZ,Small Black,1J6xqDysFw6YiQ0vMvIKds,Limits of Desire,0,235146,False,"['chillwave', 'dream pop']"
+10:37,3ETUDzHZP3Ue3C767F9jxM,Beach House,56ZTgzPBDge0OvCGgMO3OY,Depression Cherry,51,228893,False,['dream pop']
+Good News,7ly8RGycjJddqh0RsBwMpt,Rosemary Fairweather,4I4taY0pRzBIGmIgsBqcrE,Heavenly,23,223226,False,[]
+Follow,76MJsF1rbbhrv2tDBfeRR5,DIIV,4OrizGCKhOrW6iDDJHN9xd,Oshin,0,165840,False,"['shoegaze', 'dream pop']"
+Had To Hear,5pQXoXlUoNIv7L0PvY9E26,Real Estate,41SQP16hv1TioVYqdckmxT,Atlas,0,290826,False,"['jangle pop', 'dream pop', 'surf rock']"
+I Follow You,77IywFOJxAk4uwdIss1Qsr,Melody's Echo Chamber,1S0vL284jxZYKtZQ2jsQ2X,Melody's Echo Chamber,0,214400,False,"['neo-psychedelic', 'dream pop', 'psychedelic rock']"
+The World Opens,6bzK06aFN4kmKaANKsm1iX,Divine Sweater,6QhdyISn8fmch9ULKyqUoH,Divine Sweater Presents: The Ten Year Plan,20,194959,False,[]
+Together or Alone,0EBfZ9zn0TyJN7kHy3IaoG,Eternal Summers,5szugh1HJRxG0iT4sBwFaA,Gold and Stone,0,230185,False,[]
+Golden Haze,0onaz2Qk1UN5qYYhVBCCi3,Wild Nothing,6NrkINd80slV25wkBu9mEB,Golden Haze,0,208053,False,"['dream pop', 'shoegaze', 'chillwave']"
+Late Risers,7Hk79n5xPJHaD2WEcjTTDp,Surf Rock Is Dead,5iwmHxCi5pm28BEykL5Fyd,Late Risers,0,212348,False,"['surf rock', 'dream pop', 'shoegaze']"
+Gold and Stone,3mBrAr5OurGGsWCIhBj50W,Eternal Summers,5szugh1HJRxG0iT4sBwFaA,Gold and Stone,0,206587,False,[]
+Waves at Dume,0rumXNTbR7QyBJJDPrSHT7,Soft Blue Shimmer,5ZclZsMoBdRY9MJw6l47Fx,Heaven Inches Away,15,273125,False,"['shoegaze', 'dream pop']"
+Rules,4Yc8jFRkmAr9qV4mzB95BG,Hoops,12qS7lypMdpvASeNnFXtmN,Routines,25,133073,False,"['dream pop', 'surf rock', 'jangle pop']"
+License to Drive,58MZCECkYGPvrcU4IGjqPA,Work Drugs,0wLfAlTh58anndtgqA0MCU,Absolute Bearing,34,218625,False,"['chillwave', 'dream pop']"
+Explosions,16NVlEnoPlHNJ4EpEZPROC,The Mary Onettes,06Iig2bqY8mv98B1c9Iyo8,Tha Mary Onettes,0,236533,False,"['dream pop', 'swedish pop']"
+Get Away,4vD4GNg2RwuuKkH8CWoxXB,Yuck,6l3BRLCpzfC8yxqf9thWAg,Yuck,36,215573,False,"['noise rock', 'shoegaze']"
+Cherry,2l1UgRD35MieMii4LyYksT,Chromatics,4tOVIRjlWWfR1RrAxyRqTE,Cherry,0,271952,False,['dream pop']
+Under the Sun,3yR8cAdli5Ohn3dUlS1PgV,DIIV,4OrizGCKhOrW6iDDJHN9xd,Is the Is Are,0,226999,False,"['shoegaze', 'dream pop']"
+Cool 2,0zi7IKFDOqsaV073v4f4Qc,Hoops,12qS7lypMdpvASeNnFXtmN,Cool 2,0,115506,False,"['dream pop', 'surf rock', 'jangle pop']"
+Youth,4pNaaHNfuI3hSDthqatgbi,Beach Fossils,1bwUhKRmEkOZ1wuTnV9XjC,Beach Fossils,0,156866,False,"['dream pop', 'surf rock', 'shoegaze']"
+Past Lives,4a5XE0MLRfMo7JmZFTxvR3,Real Estate,41SQP16hv1TioVYqdckmxT,Atlas,35,273080,False,"['jangle pop', 'dream pop', 'surf rock']"
+Sometime,1GUQMJtIIMBLoEJNyDGA0X,DIIV,4OrizGCKhOrW6iDDJHN9xd,Oshin,0,185600,False,"['shoegaze', 'dream pop']"
+A Long Walk Home for Parted Lovers,5MNthJmhGd0USHhwSDwsif,Yumi Zouma,4tPyCwWrsvZ8OKYl7QRavL,EP,0,196845,False,['dream pop']
+Dopamine,53FCh1Yv1gdlnybyYWsyca,DIIV,4OrizGCKhOrW6iDDJHN9xd,Is the Is Are,0,235565,False,"['shoegaze', 'dream pop']"
+Kisses in Your Eyes,3qVVCH9Bzzzw1PrmaIfA01,Trementina,0DM3M5xGKVaO7MNFBH3K0X,Almost Reach the Sun,29,152206,False,"['shoegaze', 'dream pop', 'slowcore']"
+Interstellar,2259JjmM2CzFpm2zVZjva8,Shadowgraphs,23n7rc2VumQAULNcZ5L6Jx,Venomous Blossoms,12,203162,False,"['dream pop', 'neo-psychedelic']"
+It's Alright,0ZAdCDeysyoh5BOpuSGKy3,Horsebeach,1z0OEnD3fL4Zwyud1f1CNL,II,0,310000,False,"['dream pop', 'surf rock', 'jangle pop', 'lo-fi indie']"
+In Between,7EyOP1aNxYNNO9MgEmJCAI,Surf Rock Is Dead,5iwmHxCi5pm28BEykL5Fyd,In Between,0,233453,False,"['surf rock', 'dream pop', 'shoegaze']"
+Faded Eyes,6HxVluu2FEK5JiPVs39gau,Horsebeach,1z0OEnD3fL4Zwyud1f1CNL,Horsebeach,0,290000,False,"['dream pop', 'surf rock', 'jangle pop', 'lo-fi indie']"
+Float in Clouds,2xmgRoRx5GrZpm06GfI3XL,Suburban Living,3ZOX2dQRZEB6qADJd4emx2,Cooper's Dream - EP,7,248386,False,"['shoegaze', 'dream pop']"
+Black Tree,2VTpAdcsIbZ3qhRJaA9bVX,Fox Grin,3NBYNsx6JYF3vGBcOoMRCX,Black Tree,0,220865,False,"['dream pop', 'neo-psychedelic', 'shoegaze']"
+Escape,3jeR3DJ0eJErtVvnzRLD6r,Beach Vacation,5r5uCVk3IIzm2jdfGDpl8C,Maritime EP,0,168219,False,['dream pop']
+In Undertow,1gvaxqNiJEbQzWPqs72kgG,Alvvays,3kzwYV3OCB010YfXMF0Avt,Antisocialites,0,197186,False,"['dream pop', 'shoegaze', 'jangle pop', 'indie']"
+Star Roving,6oeABvJGU7Oztzd3CiSv0l,Slowdive,72X6FHxaShda0XeQw3vbeF,Slowdive,0,338869,False,"['shoegaze', 'dream pop', 'slowcore']"
+Dancing,0xdCRmVLdaxNxF0oAQInsi,Fringe,3tOmD0F2MPfrazZ4asicp6,Fringe,10,198352,False,"['dream pop', 'shoegaze']"
+Dreams Tonite,0DRvClQbN9znQ295sx76VC,Alvvays,3kzwYV3OCB010YfXMF0Avt,Antisocialites,0,196026,False,"['dream pop', 'shoegaze', 'jangle pop', 'indie']"
+White Gloves,6ziC3mMtZcB77liomN0u7i,Khruangbin,2mVVjNmdjXZZDvhgQWiakk,The Universe Smiles Upon You,0,218306,False,['neo-psychedelic']
+Take Yourself With You,79FbfiFCk34V4W1XCDGuqO,Rose Elinor Dougall,6T1GNMxXuljv0C0ZRR60CC,Stellular,0,240613,False,[]
+Home,15fSe0A90WtPu1wHqCCWcB,Vacations,0U7iI0Dk4Ojvi17nZboNO4,Vibes,0,145666,False,[]
+Dream About Me,3krLB8UbnVrO5eoNX4nFG6,The Depreciation Guild,3Hg2a04c1Z2I3wKX32hLGU,Spirit Youth,0,308093,False,"['shoegaze', 'dream pop']"
+La La La,7eqFExt8qLJZ5wyaVEWIFJ,Hoops,12qS7lypMdpvASeNnFXtmN,Tapes #1-3,27,247420,False,"['dream pop', 'surf rock', 'jangle pop']"
+Heat Wave,3twm1m2HtONUDBkUE4iPju,Snail Mail,4QkSD9TRUnMtI8Fq1jXJJe,Heat Wave,0,308346,False,['indie']
+Powder Blue / Cascine Park,3HKLkBOOsSRAHPrOPs7Hxp,Yumi Zouma,4tPyCwWrsvZ8OKYl7QRavL,EP III,0,228240,False,['dream pop']
+Never Be the Same,0CXzFobArjJTc0P23KftZy,Surf Rock Is Dead,5iwmHxCi5pm28BEykL5Fyd,SRiD,0,233485,False,"['surf rock', 'dream pop', 'shoegaze']"
+Letting Go,4yJjv9ii2kk02tIWZLzRei,Wild Nothing,6NrkINd80slV25wkBu9mEB,Letting Go,0,221600,False,"['dream pop', 'shoegaze', 'chillwave']"
+Wishes,7x4tFmih1JBITx0e2ucGrT,Beach House,56ZTgzPBDge0OvCGgMO3OY,Bloom,0,286960,False,['dream pop']
+Chemicals,1Jl74ao9nBADj4KtQmwCIF,Rosemary Fairweather,4I4taY0pRzBIGmIgsBqcrE,Heavenly,43,231106,False,[]
+Bent (Roi's Song),2K0HAp3di1AvmIjYYdPk4J,DIIV,4OrizGCKhOrW6iDDJHN9xd,Is the Is Are,0,340366,False,"['shoegaze', 'dream pop']"
+Beach Comber,3tPh7vkXySn2lUEH1NEPyO,Real Estate,41SQP16hv1TioVYqdckmxT,Real Estate,47,268466,False,"['jangle pop', 'dream pop', 'surf rock']"
+Looking Over Shoulders,6BY4ZlhDAnswI7ww8jZxrP,Yumi Zouma,4tPyCwWrsvZ8OKYl7QRavL,EP III,0,208659,False,['dream pop']
+Anyone,4qQFwn7DUSL3qV8psue32d,Swim Mountain,0k03iT1wmiddzXpZD2spn7,Anyone,0,228939,False,['neo-psychedelic']
+Saturday,50wiHcvfcpQSo5P5rbyozc,Real Estate,41SQP16hv1TioVYqdckmxT,In Mind,38,283026,False,"['jangle pop', 'dream pop', 'surf rock']"
+Pristine,4UADR6fNQfx4fxkiRQvSy2,Snail Mail,4QkSD9TRUnMtI8Fq1jXJJe,Lush,0,295333,False,['indie']
+Sunflower Seeds,0TEakF2OKW4GhTYnYpDCLF,The Orielles,5JWEBEt8VxHHxYKFmpzjwD,Silver Dollar Moment,0,304093,False,[]
+Perfect Shapes,5Gcwao0M9mKVdDH2X1pqnv,Madeline Kenney,2mirb9SKAm6IUHtPwreoqN,Perfect Shapes,0,275314,False,[]
+Natural,6Xwn68W3xQsfyydaTbm6sC,Tanukichan,7d0wUlQ0ZXIGFa0YzuBiR6,Sundays,0,151533,False,"['shoegaze', 'dream pop']"
+Black Lagoon,0wA37T62tYBAWl5lKIcOxm,Still Corners,4zKYrXs8iN4AeHmO8ZxNqp,Slow Air,0,333613,False,['dream pop']
+PDA,2jXdenospFSqnRdkszCKJe,"Day Wave, Hazel English",4ptJIIR10UVlGjN0VntFaK,PDA,29,305915,False,"['dream pop', 'surf rock']"
+Beneath The Dunes,3nmpt6D8VQ85pkOl6eMhQo,Real Estate,41SQP16hv1TioVYqdckmxT,Talking Backwards,30,227280,False,"['jangle pop', 'dream pop', 'surf rock']"
+Through Windows,3x8Ra8xCOkKJx71yoQeMyR,Wild Nothing,6NrkINd80slV25wkBu9mEB,Indigo,0,199186,False,"['dream pop', 'shoegaze', 'chillwave']"
+Swear,2N4B9Gkkqthx9zH07REjT5,Fanclub,2XxKRqSS7wels4dpUb5N1h,All the Same,0,192506,False,"['dream pop', 'shoegaze']"
+you're all i think about,7kzKXQm4eeTJOaFeelCQs0,conk creet,7LZuHIHDiWfjJxb9FP5cNt,Growing Pains,18,117250,False,"['dream pop', 'shoegaze']"
+Running in Dreams,2op4rJ4v3FptY3BzYLA25l,Chain Wallet,7f30iIMeDj414u0IomBVrw,Chain Wallet,13,232289,False,"['dream pop', 'norwegian pop', 'jangle pop']"
+Splendor,3cE923w64jGhkQZtprJ2lY,Glixen,3eimPofmo9TuKJTgpM9Bcj,Splendor,38,253336,False,"['shoegaze', 'slowcore']"
+After Falling Asleep,1YJHbR3ANXFNu7NY4vgcDe,Say Sue Me,4tvbo17gXpYgSr8sTlkaby,Where We Were Together,13,229607,False,"['dream pop', 'jangle pop']"
+I'm on My Way,1SIfVtJcLhkJfCYDBup6Ya,Marble Arch,6Oy6CwwhQqijvzAjpkoazG,Children of the Slump,0,232205,False,"['dream pop', 'shoegaze']"
+Away Message,042KPCog3XmnFjvnZThKTZ,Surf Rock Is Dead,5iwmHxCi5pm28BEykL5Fyd,Away Message,0,182998,False,"['surf rock', 'dream pop', 'shoegaze']"
+Pay No Mind,3Lwx7IULdFzJFIPKFGFH9z,Beach House,56ZTgzPBDge0OvCGgMO3OY,7,0,204466,False,['dream pop']
+Blacklight,35skgcj6FERxuJLQxGBXcn,Inner Wave,6AQEfqGPSxZX0nJVonYxi6,Blacklight - EP,0,327613,False,[]
+Be Transparent,4FkzwqbQ9ScrcnzIgRPkXT,Foliage,6GO4Noo5C7TXVHxGNClp2w,Be Transparent,0,183070,False,"['dream pop', 'bedroom pop', 'lo-fi indie', 'jangle pop']"
+In Reference To,4soIPMs2XqUFu9roKupZ8I,Foliage,6GO4Noo5C7TXVHxGNClp2w,In Reference To,0,149889,True,"['dream pop', 'bedroom pop', 'lo-fi indie', 'jangle pop']"
+Atop a Cake,2d4VlnTyBVserhtyH3b9BZ,Alvvays,3kzwYV3OCB010YfXMF0Avt,Alvvays,0,199573,False,"['dream pop', 'shoegaze', 'jangle pop', 'indie']"
+Days,4n3xrJ5ptORsVPZLl4qNcV,Vacations,0U7iI0Dk4Ojvi17nZboNO4,Days,0,182850,False,[]
+Never Going Home,4pnipOyqSfpDzeKpBPdOG0,Hazel English,1nEGjL7aMVdNQzsfQPKdGr,Never Going Home,0,236666,False,['dream pop']
+When I Look Back,0NyE3z63bQpiqDkx6DSjl0,Lev Snowe,2lRRqJBopJfhZswiXar3a5,When I Look Back,23,279123,False,['dream pop']
+New Jacket,6wMJAqpKp7CsU6YCIPscPC,Literature,6xcmv5tyBSILlWarSNbemC,Chorus,0,197882,False,['jangle pop']
+Powder,7d9212orrSfVHQaSdesffl,Launder,34oS6XgB17t0Gm7623KXLh,Powder,28,270014,False,"['shoegaze', 'dream pop', 'lo-fi indie']"
+Fever Dream,0MwAi8hSPCDpZM8TU6jHuR,GRAZER,66npZ0iLHcWmV2DAC8oYRF,Joe's Sad Song / Fever Dream,0,241232,False,"['dream pop', 'shoegaze', 'lo-fi indie']"
+Honey,6Hqmu4TRXQjYEq6u1AgnJe,The Young Love Scene,6LrU7VAWMkHzeMecLyGSDx,Honey,0,167671,False,"['dream pop', 'shoegaze']"
+Bisou Magique,2KZXbaru3Q8J4QOB1hYnTF,Melody's Echo Chamber,1S0vL284jxZYKtZQ2jsQ2X,Melody's Echo Chamber,34,249040,False,"['neo-psychedelic', 'dream pop', 'psychedelic rock']"
+Tides,7gUWHJbkQ5sCekRghQWIAy,Eyeclimber,0Dufap1ZH2j5MwFsaRAuzV,Petrichor,0,178208,False,"['dream pop', 'shoegaze']"
+Plum,04DdNbTmZAgHfNP6FdY3Sa,Widowspeak,5ZW7HlSuZz8ng2X21cXbdP,Plum,0,264954,False,"['dream pop', 'chillwave']"
+Different,2JpsSsuWKEcmqQEKRHEGMu,Blankenberge,0N9CUdcRxZfnPGAmbkuUrm,Everything,16,271695,False,"['shoegaze', 'dream pop', 'slowcore']"
+Apocalypse,7McZS9J6h0SKoZBR6cfcFe,Cigarettes After Sex,1QAJqy2dA3ihHBFIHRphZj,Cigarettes After Sex,0,290616,False,['dream pop']
+Fade Into You,1LzNfuep1bnAUR9skqdHCK,Mazzy Star,37w38cCSGgKLdayTRjna4W,So Tonight That I Might See,85,295600,False,"['dream pop', 'shoegaze', 'slowcore']"
+Stick,3kxKzo6rE1TtPeS3PzsM2w,Ovlov,2Iy7tZpp5qQudlg5cbcgH8,Stick,0,202528,False,"['shoegaze', 'indie punk', 'slowcore', 'noise rock']"
+When The Sun Hits,7wE4l1GNxjE2kOmlsx0PcA,Slowdive,72X6FHxaShda0XeQw3vbeF,Souvlaki,0,287466,False,"['shoegaze', 'dream pop', 'slowcore']"
+I'll Do It Again,1SDKfHhfBUBciO2AUwuvgI,"The Macrobats, Madde",3HV2XYlEjYYuLM73CZCNpY,I'll Do It Again,13,193034,False,"['dream pop', 'shoegaze']"
+Dark Spring,6PGrkeJpDpgiFLvgKYD489,Beach House,56ZTgzPBDge0OvCGgMO3OY,7,0,204373,False,['dream pop']
+Boyfriend,6zJ8TiWgwoxxlQnZgCH7hS,The Bilinda Butchers,6TnZQyc6gSnomokLLI8mya,"Regret, Love, Guilt, Dreams",36,254653,False,"['dream pop', 'shoegaze']"
+Kaleidoscope,17djDdG4A6RaonAObaffsH,Ringo Deathstarr,3sWLSYm3MFYosc4AZhwajg,Colour Trip,34,125330,False,"['shoegaze', 'dream pop', 'slowcore', 'noise rock']"
+The One to Wait,3MPFzBWdqwaAeCSQpA7Ift,CCFX,28tPuyqMVd3L51JmH9RpGZ,CCFX EP,0,393226,False,[]
+Dirt,73FmWCru7YZIfFSuGSuEKu,Suburban Living,3ZOX2dQRZEB6qADJd4emx2,Dirt,0,244500,False,"['shoegaze', 'dream pop']"
+Down the Line,1KPDAA9zyJXcEDvFW5inYi,Beach Fossils,1bwUhKRmEkOZ1wuTnV9XjC,Somersault,0,158474,False,"['dream pop', 'surf rock', 'shoegaze']"
+Homesick,1DCmcz9n9uGHLJofhITGwi,Jesu,1binm59tmJzoZLvLETVYBP,Every Day I Get Closer to the Light from Which I Came,23,358008,False,"['drone metal', 'shoegaze', 'post-rock', 'drone', 'sludge metal', 'slowcore', 'stoner metal']"
+Love Songs on the Radio,3arsql2gOlBUnTaFpIjHqE,Mojave 3,4jSYHcSo85heWskYvAULio,Ask Me Tomorrow,0,348400,False,"['slowcore', 'dream pop', 'shoegaze']"
+Runner,4GwT2PoXxURFAsbX1DOzjd,Young Prisms,62Xs9S1gahH6vGEJ24qdkK,In Between,0,273533,False,"['shoegaze', 'dream pop']"
+Live in Dreams,7tXyHzeEfr3LLSSdm6rTY8,Wild Nothing,6NrkINd80slV25wkBu9mEB,Gemini,0,205862,False,"['dream pop', 'shoegaze', 'chillwave']"
+Heaven's on Fire,6ijXqCGHU0YI5prMb4keGO,The Radio Dept.,0utS63XytOEVN1EtzWhJpG,Clinging to a Scheme,0,212133,False,"['dream pop', 'shoegaze']"
+Adult Diversion,3F395GaOXCVNDozy5WpK4j,Alvvays,3kzwYV3OCB010YfXMF0Avt,Alvvays,0,207640,False,"['dream pop', 'shoegaze', 'jangle pop', 'indie']"
+Headache,4EDj8GXOlI45vG4SOfswK3,Grouper,31uyAcnY0kjjKKIQZMKX4i,Paradise Valley,44,304460,False,"['drone', 'slowcore', 'ambient', 'dream pop']"
+In My Head,2nr9WZdKntw9a5muEC3gOk,Bedroom,7COP1HCvVq1cIpZcLQYoNe,In My Head,0,354663,False,[]
+Misread,7tQBd6ZxIvhNRcWNtQ8qUT,Fazerdaze,2awB7Ol181cocZcLLNBBAh,Morningside,0,150894,False,"['dream pop', 'shoegaze']"
+We’re Not Done (End Title),58jGSwikO2NbCICODjZnrG,Mogwai,34UhPkLbtFKRq3nmfFgejG,We’re Not Done (End Title),0,254706,False,"['post-rock', 'shoegaze']"
+Chinatown,0UQc1EkgxdIB3nGVTuAXKI,Wild Nothing,6NrkINd80slV25wkBu9mEB,Gemini,0,198842,False,"['dream pop', 'shoegaze', 'chillwave']"
+Pepsi/Coke Suicide,1z0DXbixgwEiXUZUCKVYsP,Elvis Depressedly,5a31Ij1sTxY9LUYVwgBp8m,Holo Pleasures / California Dreamin',0,153095,False,"['lo-fi indie', 'midwest emo']"
+Pale,4jEGjl1Wj3iSYwDo36cfYX,Life On Venus,72cBWuYjXkWxEXqZcoH5kE,Encounters,0,125445,False,"['shoegaze', 'dream pop', 'slowcore']"
+i was all over her,7svpAkwc6xaSxlbZ7V7JiS,salvia palth,0pg0Zm8FsGAYy5kdHuBnSo,melanchole,3,161462,False,"['slowcore', 'lo-fi indie']"
+The Hours,3bATRbSvB9RLyFmSAyBmVD,Beach House,56ZTgzPBDge0OvCGgMO3OY,Bloom,0,251720,False,['dream pop']
+Days,6113aOfHIC0vbZVDZ6PpRV,The Drums,0p5axeJsbtTCXBrRVoKjwu,Portamento,0,269081,False,['indie']
+Do It Every Time,7MZCwFGKIoCI00xmCrnRCX,Ringo Deathstarr,3sWLSYm3MFYosc4AZhwajg,Colour Trip,15,158160,False,"['shoegaze', 'dream pop', 'slowcore', 'noise rock']"
+Here's Where The Story Ends,4SPi5Pl7aAtauFsH9Lk5LB,The Sundays,4nlqDmbzFzbNITaqjJv7D7,"Reading, Writing & Arithmetic",1,234906,False,"['dream pop', 'jangle pop']"
+Tuesday,5OuRT9nu8P5GHkoF7MiOiZ,Cole Anyway,6ctBrunhwPNeeuqu8KG7Bd,Tuesday,8,134767,False,"['dream pop', 'neo-psychedelic', 'shoegaze']"
+Giant Man,7DwTXozAa7reiJ7KVcSM4N,Teethe,3K2gErmF9xLdo6dqOj1VbI,Teethe,32,193000,False,"['slowcore', 'shoegaze']"
+The Past Tense,3n8AnbWYvnpRSoRHGmpBv3,infinite bisous,7w5cbnOLouZ5bGFvwIF5Ff,W/ Love,33,213958,False,[]
+Jet Lag,4MzxTLiP3trlFUpL1PAu5S,Colatura,281DMYRccJJg8BXz1TIZF5,And Then I'll Be Happy,19,191373,True,"['dream pop', 'shoegaze']"
+Hey Moon,0MpsyFvt1KaxNYBYw2aanq,John Maus,4R073T3AVJKqAsbzLmLW9u,We Must Become the Pitiless Censors of Ourselves,45,248706,False,"['cold wave', 'darkwave', 'baroque pop']"
+Shivers,43OyGApGeirDOLmSD9aiy2,"The Macrobats, Madde",3HV2XYlEjYYuLM73CZCNpY,Shivers,14,289166,False,"['dream pop', 'shoegaze']"
+Endlessly,7EzKrIF3T2XqUZfhnHw5CE,Nothing,60mqEPQp1eNjuwt1Z4yL4J,Guilty of Everything,31,253664,False,"['shoegaze', 'dream pop', 'slowcore']"
+17,5UVBumEwdUnzvqxrXOYLFA,Youth Lagoon,1Z2KInfSmPOzAIYyiaXeti,The Year of Hibernation,50,236000,False,"['dream pop', 'chillwave']"
+Bathroom Mirror,4S50BYwWW4fnmzQmMqATM4,Gaspard Eden,11BISbBI3xYpovdOS1DKBu,Soft Power,10,245666,False,"['dream pop', 'shoegaze']"
+Dive,0v8UvAhruTvkA90MR7039n,Beach House,56ZTgzPBDge0OvCGgMO3OY,7,0,265373,False,['dream pop']
+Always Forever,2enPRFda84VE2wtI8c86Uf,Cults,3Oim8XBPbznAa8Jj8QzNc8,Static,78,223746,False,[]
+Altogether,1I3f8tsoYbIPEgQ1TPvJPb,Slowdive,72X6FHxaShda0XeQw3vbeF,Souvlaki,47,221133,False,"['shoegaze', 'dream pop', 'slowcore']"
+Hold You in the Warm,4I9Z0ey3dKuNRlap1AKHnn,Soft Blue Shimmer,5ZclZsMoBdRY9MJw6l47Fx,Heaven Inches Away,16,306000,False,"['shoegaze', 'dream pop']"
+Nowhere Near,6zqfL2Io4GGtVTz1Agrow1,Yo La Tengo,5hAhrnb0Ch4ODwWu4tsbpi,Painful,0,363973,False,"['dream pop', 'slowcore']"
+Shallow,7KCB9JMl1tSSGGPeNtGdpO,Beach Fossils,1bwUhKRmEkOZ1wuTnV9XjC,Clash The Truth,0,197454,False,"['dream pop', 'surf rock', 'shoegaze']"
+Taker,0ZdSPHnoFUAE1tck8oxSyJ,DIIV,4OrizGCKhOrW6iDDJHN9xd,Taker,0,268800,False,"['shoegaze', 'dream pop']"
+In Reverse,2MhhQE3JTYMge7eCVl2dNT,Punchlove,5Tbdx7OG835TPTxnEgfNiW,In Reverse,18,283840,False,"['shoegaze', 'dream pop']"
+In Your Room,7l5XWtUfIclO2xCTFvts8V,Airiel,1WOhabhnnH1k6KcD81xGD1,Winks & Kisses: Melted,0,566466,False,"['shoegaze', 'dream pop', 'slowcore']"
+Slomo,6smJCC2En1iEuN3b9ZQnLX,Slowdive,72X6FHxaShda0XeQw3vbeF,Slowdive,0,413171,False,"['shoegaze', 'dream pop', 'slowcore']"
+suffer dude,5Xxa91usdK0epjlUyRtHeH,Colatura,281DMYRccJJg8BXz1TIZF5,suffer dude,30,198346,False,"['dream pop', 'shoegaze']"
+This Bright Flash,498rJ13u7pBsT7datcqL8Q,M83,63MQldklfxkjYDoUE4Tppz,"Hurry up, We're Dreaming",40,144026,False,[]
+I Want More,5XX6Odv28En2TnabZmOn5E,Gus D. Wynns & the Breakers,4G9m0YY2gWpPy0TkoucWyL,Is This Too Real?,6,326837,False,"['dream pop', 'shoegaze']"
+Blue Light,3BdHMOIA9B0bN53jbE5nWe,Mazzy Star,37w38cCSGgKLdayTRjna4W,So Tonight That I Might See,67,310733,False,"['dream pop', 'shoegaze', 'slowcore']"
+Being a Robot Is Lonely,1xlXSAmoYsirVEevjnfGMw,The Next World War,6LLbf40KWbBUA1NTKeeLHH,Being a Robot Is Lonely,6,240833,False,"['dream pop', 'shoegaze']"
+Careless,6WirzZViqdjM0nEtHMA3el,Beach Fossils,1bwUhKRmEkOZ1wuTnV9XjC,Clash The Truth,0,183133,False,"['dream pop', 'surf rock', 'shoegaze']"
+Pancakes,33ySDZzyzAPwscr6zl93FE,Gaspard Eden,11BISbBI3xYpovdOS1DKBu,Soft Power / Pancakes,0,169986,False,"['dream pop', 'shoegaze']"
+Night Face Regretter,7hhIjiXL3BnAikwbLlijpC,Deathlist,0OZNuT6W3qlrio23YD2Ml1,Night Face Regretter,5,177506,False,"['dream pop', 'shoegaze']"
+Dinosaur,5dLVPZd9DTpd17UlKrOWa1,Fog Lake,04GCjO1r1hPelibCUq9S8H,Captain,0,194000,False,"['slowcore', 'lo-fi indie']"
+Shine a Light,4PoTRZnQhOMJM9VMIS2pVh,Spiritualized,6DKmuXxXASTF6xaJwcTfjv,Lazer Guided Melodies,0,434906,False,"['neo-psychedelic', 'space rock', 'shoegaze', 'dream pop']"
+Take Care,772AbCLRS8bocvm3hOODVE,Beach House,56ZTgzPBDge0OvCGgMO3OY,Teen Dream,0,348440,False,['dream pop']
+Strawberry Blonde,1rUI6I8IKZEtYBL0S8rfXa,Doused,47jpNKqk6XBIcvSWK76Y1c,Murmur,22,285907,False,"['shoegaze', 'dream pop', 'slowcore']"
+Natural Devotion,3ozeIgf9g4assFBsLDjDP9,SPIRIT OF THE BEEHIVE,25CgccXK9hJBTuaMF44zeR,You Are Arrived (But You've Been Cheated),36,226943,False,"['shoegaze', 'slowcore']"
+A Question Isn't Answered,3xk9UqibrbMjahj2mtmSdx,Temples,4ogwGU9VPWrnVBs1GEwZVV,Sun Structures,0,311702,False,"['neo-psychedelic', 'psychedelic rock']"
+Superstar,3w91918dPywkczARMO5tnJ,Beach House,56ZTgzPBDge0OvCGgMO3OY,Once Twice Melody,0,368666,False,['dream pop']
+Vertigo Flowers,3xvVuLA3YYZPd5mx8NOnN6,Nothing,60mqEPQp1eNjuwt1Z4yL4J,Tired of Tomorrow (Deluxe Version),41,204975,False,"['shoegaze', 'dream pop', 'slowcore']"
+Breather,4rbKtilX985FyoAnHrzCdH,Chapterhouse,3r94PF71LWRI5K6wqclNjQ,Whirlpool (Expanded Edition),30,258760,False,"['shoegaze', 'dream pop', 'slowcore', 'madchester']"
+Daylight Storms,6Lbou6DLY96jA6i9DC2vXA,Air Formation,3yBSb6Pf8ezlZFkYxnw3aA,Daylight Storms,26,292280,False,"['shoegaze', 'dream pop', 'slowcore']"
+Akira,5etys3p3H0qRDscHy7eWKc,Deafcult,6AX5hnjYSvcjZd9IyqYPsp,Deafcult,28,189531,False,"['shoegaze', 'dream pop', 'slowcore']"
+Alison,33HRECrmuelZxOpid6XTNX,Slowdive,72X6FHxaShda0XeQw3vbeF,Souvlaki,62,230986,False,"['shoegaze', 'dream pop', 'slowcore']"
+Time,29p70QrSO4d843jPTSeOZn,Travis Roush,5b8lzZHVYq5OntXJGmvakI,"You There, Diamond Eyes",0,224000,False,"['dream pop', 'shoegaze']"
+Shadow,6LreV0dZjQlOQQ6foYChc5,Wild Nothing,6NrkINd80slV25wkBu9mEB,Nocturne,0,258560,False,"['dream pop', 'shoegaze', 'chillwave']"
+Guilt,1DZtAtt3VKQoDTemC9EKXa,Ringo Deathstarr,3sWLSYm3MFYosc4AZhwajg,Pure Mood,15,180480,False,"['shoegaze', 'dream pop', 'slowcore', 'noise rock']"
+The Video Dept.,5Ek17fBK5XaIQK9Em7a423,The Radio Dept.,0utS63XytOEVN1EtzWhJpG,Clinging To A Scheme,0,205280,False,"['dream pop', 'shoegaze']"
+This Year,1TFjgmDNqtfw2R0ruYZkUI,Beach Fossils,1bwUhKRmEkOZ1wuTnV9XjC,Somersault,0,168092,False,"['dream pop', 'surf rock', 'shoegaze']"
+Zebra,3E3dnHbmTxANxgMqKrf1go,Beach House,56ZTgzPBDge0OvCGgMO3OY,Teen Dream,0,288720,False,['dream pop']
+Don't be mad if I don't come along,00AHMSjW85Qs1ByBoHzEID,NAYAD,1ljZUgzfEnBpnaFLzwUnWt,Don't be mad if I don't come along,0,251986,False,[]
+nail i couldn't bite,0AgghN0YfYSZRilCXOb3do,SPIRIT OF THE BEEHIVE,25CgccXK9hJBTuaMF44zeR,Hypnic Jerks,0,315659,False,"['shoegaze', 'slowcore']"
+The Fog Rose High,3NwaVr6RJg2LPBcJ1Ysl1O,Craft Spells,16lg8y62dC3J6ok1pNAbFJ,Idle Labor,0,189391,False,"['dream pop', 'chillwave']"
+Little Uneasy,6jt9wki3cLPpJuPK5ntkOH,Fazerdaze,2awB7Ol181cocZcLLNBBAh,Morningside,0,224000,False,"['dream pop', 'shoegaze']"
+Summer Holiday,2I8Dwm2GctXWW4MMPp5Vap,Wild Nothing,6NrkINd80slV25wkBu9mEB,Gemini,0,242746,False,"['dream pop', 'shoegaze', 'chillwave']"
+Sugar for the Pill,0GN3fXUdsTHeUg50xfDS0V,Slowdive,72X6FHxaShda0XeQw3vbeF,Slowdive,0,270918,False,"['shoegaze', 'dream pop', 'slowcore']"
+Generational Synthetic,0B8zyV6NOayK5dEwGiu2lt,Beach Fossils,1bwUhKRmEkOZ1wuTnV9XjC,Clash the Truth,0,164999,False,"['dream pop', 'surf rock', 'shoegaze']"
+Roses,4AdjaWMV4ZkY1WeiwH6xwe,Girlpool,3BYXi96LqI8TwNljFKE0DZ,What Chaos Is Imaginary,11,212993,False,['riot grrrl']
+Ghost,7n53Rr7s0NrE56vUNnR4wl,Punchlove,5Tbdx7OG835TPTxnEgfNiW,Solstice // Ghost,7,242459,False,"['shoegaze', 'dream pop']"
+I Heard You Looking,4wJsfg40fFsNUbspoRbgDP,Yo La Tengo,5hAhrnb0Ch4ODwWu4tsbpi,Painful,0,421800,False,"['dream pop', 'slowcore']"
+Fever Queen,2hWnuDzcKznJvlCxuRgfaA,Nothing,60mqEPQp1eNjuwt1Z4yL4J,Tired of Tomorrow (Deluxe Version),32,176435,False,"['shoegaze', 'dream pop', 'slowcore']"
+Diazepam,4iaAD4qbSBs2cfXHTzcYFW,Turnover,0gLjJuczGWhqKVMmVpIT52,Peripheral Vision,0,199037,False,"['midwest emo', 'dream pop', 'pop punk']"
+When We Fall,7gePpUawLnGf1l1fnltiIR,Grouper,31uyAcnY0kjjKKIQZMKX4i,Dragging a Dead Deer Up a Hill,37,127680,False,"['drone', 'slowcore', 'ambient', 'dream pop']"
+Heartbeat,19XHp8wmXHLegxZRiA0Kmy,BEX,0JMfBNsJyhVafPyD5uAcuX,Move It Or Lose It,6,216818,False,"['dream pop', 'shoegaze']"
+"Breathe in, Breathe Out",4J9LOhzDYiASTnXdOgG6I1,Melody's Echo Chamber,1S0vL284jxZYKtZQ2jsQ2X,"Breathe in, Breathe Out",22,170333,False,"['neo-psychedelic', 'dream pop', 'psychedelic rock']"
+Confirmation,0wQ0pqFkVoi3NoAcmyx9G5,Wild Nothing,6NrkINd80slV25wkBu9mEB,Gemini,0,193268,False,"['dream pop', 'shoegaze', 'chillwave']"
+Iosefka,5ql5pS6ERwE5U5PYPMHbdu,Hayien,757lp5rkqNBZKPLeQ5NugB,Iosefka,0,264705,False,"['shoegaze', 'dream pop']"
+Machine Gun,1wXJjKJy5Pt38Bu3tUzTUL,Slowdive,72X6FHxaShda0XeQw3vbeF,Souvlaki,52,266706,False,"['shoegaze', 'dream pop', 'slowcore']"
+Take Care,2Ru2ARMNAATgPDL0aSDFCU,SASAMI,4pdoRs7yHNXakMobf8M9Oz,Take Care / Free,35,235346,False,[]
+Into The Black,6NQfUZb5VummNR8rozb8Ic,Chromatics,4tOVIRjlWWfR1RrAxyRqTE,Kill For Love,0,322994,False,['dream pop']
+Sleepy Couch,5Df8KiHPJSjexHqxDF6Txr,Lunar Vacation,7EEefVBNBS3ckwouEl62oB,Swell,24,206173,False,[]
+Like Before You Were Born,0K8N0F3efUhd55TxNGgmGD,DIIV,4OrizGCKhOrW6iDDJHN9xd,Deceiver,0,184906,False,"['shoegaze', 'dream pop']"
+Golden Age,3Ao4ZsCSZvXZ4M4r9yzUUZ,Beach Fossils,1bwUhKRmEkOZ1wuTnV9XjC,Beach Fossils,0,285880,False,"['dream pop', 'surf rock', 'shoegaze']"
+Forever,7zTkKCqiFMqXfBKcmlMDgQ,Leave the Planet,6vW6YgP4ZCF8wED7yAuQyk,Nowhere,4,216405,False,"['shoegaze', 'dream pop']"
+Cold Water People,6TSTKAxF5ZawWLzgiBHzkf,Ride,0WPY9nnBy01s5QOt4o4oQX,Tomorrow's Shore,0,271760,False,"['shoegaze', 'dream pop', 'britpop', 'madchester', 'jangle pop', 'slowcore', 'neo-psychedelic']"
+Mind the Wires,0rEVhkcwdi9CcKANWYV0Ot,Tears Run Rings,0cNUrcNznBuZErkcSdHoxJ,"Always, Sometimes, Seldom, Never",29,293466,False,"['shoegaze', 'dream pop', 'slowcore']"
+PPP,0qQGx2TyjtZNDNyRYO9Z0W,Beach House,56ZTgzPBDge0OvCGgMO3OY,Depression Cherry,0,368546,False,['dream pop']
+Nothing Lasts,3GOO81yxm6EZLkiXLs2sx2,Bedroom,7COP1HCvVq1cIpZcLQYoNe,Grow,0,291785,False,[]
+Visions,1rcxltU3Mzn8gN6Z8ly9Zh,Loving,4ftctxasGrW5Ud5Pbw6kWq,If I Am Only My Thoughts,0,233558,False,[]
+Keen On Boys,0dCfgEyxU3RyOBtAZw3vPm,The Radio Dept.,0utS63XytOEVN1EtzWhJpG,Marie Antoinette (Original Motion Picture Soundtrack),0,289973,False,"['dream pop', 'shoegaze']"
+Sweetheart,4T7okh1A7MmqS7xXypO0wx,Long Beard,3truyDimkGtu58fxQj9Xv9,Means To Me,0,334357,False,['dream pop']
+Master of None,3stWWPN41byqp8loPdy92u,Beach House,56ZTgzPBDge0OvCGgMO3OY,Beach House,77,199413,False,['dream pop']
+Not The Time,2kz4JUPAQLcaViOVgYxzfF,SASAMI,4pdoRs7yHNXakMobf8M9Oz,Not The Time / Callous,23,170760,False,[]
+Sing to Me Candy,47Y4i7hLPazl7BS4sGWsYd,Papercuts,5fN7QZumpTbySswZyiWKXn,Sing to Me Candy,0,344155,False,"['shoegaze', 'dream pop']"
+"Some Time Alone, Alone",6G7rDUqMhnmXFVwRRQ7azu,Melody's Echo Chamber,1S0vL284jxZYKtZQ2jsQ2X,Melody's Echo Chamber,44,226400,False,"['neo-psychedelic', 'dream pop', 'psychedelic rock']"
+Sugar,3FiDA9GX921AiW7iEpYS3K,Beach Fossils,1bwUhKRmEkOZ1wuTnV9XjC,Somersault,0,204062,False,"['dream pop', 'surf rock', 'shoegaze']"
+Out of Mind,5Jl1QnoXsEsRJOOoXHApab,DIIV,4OrizGCKhOrW6iDDJHN9xd,Is the Is Are,0,188050,False,"['shoegaze', 'dream pop']"
+Komorebi,2ztHL4aV76oeCe6DDWpky3,Craft Spells,16lg8y62dC3J6ok1pNAbFJ,Nausea,0,263691,False,"['dream pop', 'chillwave']"
+The Bridge,2XnHYXyjgeuN8dB5VEGquF,Small Black,1J6xqDysFw6YiQ0vMvIKds,Driftwood Fire,5,284373,False,"['chillwave', 'dream pop']"
+Ostra,6PZUWoycpXj6SKgU2OtmPy,Yumi Zouma,4tPyCwWrsvZ8OKYl7QRavL,Willowbank,0,244761,False,['dream pop']
+Drool,3AHSYM6974K1tw61oMGG8Y,It Looks Sad.,24M8W1AklCxyWTKjrJZDQ8,Sky Lake,0,184213,False,"['midwest emo', 'math rock']"
+There Will Be Blood,6lmuSzEMhDWWkHZSQ0SXyR,Life On Venus,72cBWuYjXkWxEXqZcoH5kE,Encounters,0,218025,False,"['shoegaze', 'dream pop', 'slowcore']"
+Numb,6Ijmj8Z0L31hCp5pLZnT5U,Men I Trust,3zmfs9cQwzJl575W1ZYXeT,Numb,69,219340,False,"['bedroom pop', 'indie pop']"
+Saw You In A Dream,0U3u0HdRQjD8mAMYBak4Ok,The Japanese House,3IunaFjvNKj98JW89JYv9u,Saw You In A Dream,57,208280,False,[]
+Homesick,0e1XGhjLynaRO0P3KxkxDs,Glimmer,4ldTJbQ7TIIjZYgUtH5RwT,Homesick,19,233851,False,"['shoegaze', 'dream pop']"
+Porcelain,2ngVZZGrIYAxyxaA2QcWTB,Men I Trust,3zmfs9cQwzJl575W1ZYXeT,Oncle Jazz,45,212889,False,"['bedroom pop', 'indie pop']"
+Someday Soon,54H7CLmI5SE7wmhlE0THS5,Lev Snowe,2lRRqJBopJfhZswiXar3a5,Someday Soon,19,217242,False,['dream pop']
+Timekeeper,2JL5aOSgBVijhW28Bxfczm,Divine Sweater,6QhdyISn8fmch9ULKyqUoH,Divine Sweater Presents: The Ten Year Plan,32,166387,False,[]
+Antibody,46YxybUOOH2MYRXBoHXUgw,Foxes In Fiction,3GSt4ZSP1wEtdbcTTbwjpW,Antibody / Rush to Spark,0,200222,False,"['dream pop', 'shoegaze']"
+Float,7vQp9oEEojNtALtfejGND7,"Blood Estate, Wulven",74ILynpls56WeC7FcBq0fF,Float,8,216013,False,"['slowcore', 'shoegaze']"
+Jennifer,6uFXA44CcLLWbNY5kYSOK6,Fazerdaze,2awB7Ol181cocZcLLNBBAh,Morningside,0,240736,False,"['dream pop', 'shoegaze']"
+Radio,1gyIYA98zceKTnjISviYRz,Freak Slug,5wk7sY8GIg5ihSI09EbWeS,Radio,58,191527,False,"['lo-fi indie', 'dream pop', 'bedroom pop']"
+Crystal Tears,44YINUlW44gTcQJKrmGeuK,The Bilinda Butchers,6TnZQyc6gSnomokLLI8mya,Goodbyes,21,315234,False,"['dream pop', 'shoegaze']"
+Skin Game,4qgNoDm7QIpbtt3qB96RzY,DIIV,4OrizGCKhOrW6iDDJHN9xd,Deceiver,0,265466,False,"['shoegaze', 'dream pop']"
+果物 (Fruit),0NVEtqedqqSAe2fxFuI6vf,Column,4lAk1EpBbxg4jIS0AcerHp,A Year in Your Garden,17,211448,False,[]
+Cave Vaults on the Moon in New Mexico,5j375wUE1V53HpkKtiDKT2,Tan Cologne,0BzCBe2kdywrXRgiP1JZeo,Cave Vaults on the Moon in New Mexico,10,265333,False,"['dream pop', 'shoegaze']"
+Ohio Blue Tips,3cKzdHoTN1g39ktjm3twCF,Terry vs. Tori,1UAyQNs2HANU7mGGqtXzJv,Heathers,23,194947,False,"['dream pop', 'jangle pop', 'shoegaze']"
+Kids Like Us,3KjGgXIX3RIkBrb4j9vU7C,Colatura,281DMYRccJJg8BXz1TIZF5,And Then I'll Be Happy,18,211986,False,"['dream pop', 'shoegaze']"
+Alone,1W91GlNLLC6y0xXg1RLtie,Sugar High,5D2LVT3Rf3oBttTmGGj3AP,Love Addict,21,182000,True,"['dream pop', 'shoegaze']"
+How,24UzJSXpXqmGXrGjqAOFpY,The Analog Girl,4PK6Yoxg2Ba8C2KQbysQkM,How,12,272250,False,"['dream pop', 'shoegaze']"
+Point of View,3BAZa1WlbTZoWPoKcJRtE2,Sonoda,5OcA113uaLxGSU00Nkaaje,Point of View,0,126770,False,"['dream pop', 'shoegaze']"
+Magic Hour,7Bo3nnosClsnmd67p6tacd,Terry vs. Tori,1UAyQNs2HANU7mGGqtXzJv,Magic Hour,12,167044,False,"['dream pop', 'jangle pop', 'shoegaze']"
+how do you feel,3BMcTB54pN4oZlIIPNxcy1,strawbey,3Ecd4KEdZpKTW8gi3HOmeX,play pretend,2,297612,False,[]
+Showers,5lJDgnn9Wq06dBoEdMyXuz,Bored at My Grandmas House,0hQ6Js0CTBu337vggHinhk,Showers,0,220403,False,"['dream pop', 'shoegaze']"
+a thing of value,1Vb0Wc8s6cFOKrUj8ZNHnV,copperplate,33gqAcq77ntKPjmks6HLGD,contentment,24,238350,False,"['dream pop', 'shoegaze']"
+Fuzz Captain,4QgIkSyVxv6FmsWO2dZz4J,Micra,0riJKpNDw4fboGdUimavkK,Fuzz Captain,0,244231,False,['dream pop']
+Even True Love,79PaJyGdIi8XN6d9tp2YlT,Widowspeak,5ZW7HlSuZz8ng2X21cXbdP,Even True Love,0,286660,False,"['dream pop', 'chillwave']"
+Delicadeza,67RdRmkIRxl3iShk1hknwo,Mint Field,3okJi6oq87Mwx0VzywmMgz,Delicadeza,0,178146,False,"['shoegaze', 'dream pop', 'mexican rock', 'mexican indie', 'latin indie', 'space rock']"
+Cherry-Cola Abyss,3agVTNFmPXfrqQXnxoMyeM,Soft Blue Shimmer,5ZclZsMoBdRY9MJw6l47Fx,Heaven Inches Away,20,356750,False,"['shoegaze', 'dream pop']"
+Cricket Songs,1X6YvgGzWH9t6io3ZBZ7JP,Phantom Handshakes,1zg9SzoXC2U50P7Q403Alo,Cricket Songs,20,230480,False,"['dream pop', 'shoegaze']"
+Keep You Warm,4GjWZDfWw5ZnW9vmioJwY0,Jaguar Sun,4WQwU51LUtrVrw0K8BMpAC,This Empty Town,36,256204,False,['dream pop']
+Goose Ghost,1EokSSh35Ym77YxH7CkTqz,Stove,4rkMcjdyDpeG57mT7lZNKs,Is a Toad in the Rain,0,230805,False,['shoegaze']
+Saturn Song,204Yva4BgTADZrtq7h4MNH,Beach House,56ZTgzPBDge0OvCGgMO3OY,The Space Project,26,272773,False,['dream pop']
+Irrational,0HAsOUxDiYHKaQSoKKEN5z,Erthlings,7l66fxCnEL8pBlzI5QwGBe,Irrational,0,203992,False,['dream pop']
+Lylz,1C9t8whBQcIDcI3mwmmFhp,Helena Deland,0BJeP79i5wKgCqsEEiQ7G0,Lylz,13,183280,False,[]
+Just Like Fireflies,5X632JMfT1LF7P1RtVHV9Q,For Tracy Hyde,6D4CyQKY5fDsjK5qKNfqDy,Ethernity,21,160262,False,"['shoegaze', 'japanese indie', 'dream pop', 'jangle pop', 'j-rock', 'math rock', 'shibuya-kei']"
+Drown,7EUcNIHj2eWmpGNJF5u0Vh,NewDad,1yz8XixOiIJJ9IxjbnfYV6,Waves,0,190720,False,['lo-fi indie']
+Milano Sport,6fLHeUV8b0qho8xPGiyc6g,Doohickey Cubicle,5cnv2wmWqSU2ode1U9p8BH,Milano Sport,13,181845,False,"['dream pop', 'bedroom pop']"
+What Are You so Afraid Of,5NwyQFaZbL6w8SaFcPFDn8,Videoclub,3rp4f58JlRHkk8hpdLCer1,What Are You so Afraid Of,0,147573,False,"['french indie pop', 'french pop']"
+Tulips,5ECxlbd1DVZ7CsGCRM6WG0,The Bilinda Butchers,6TnZQyc6gSnomokLLI8mya,"Regret, Love, Guilt, Dreams",32,285285,False,"['dream pop', 'shoegaze']"
+Above Us,3XUjzEdbLM6gyXJp5JkHD8,Hibou,60S3PHPmmVaBxa0zrcAiHq,Hibou,0,212586,False,['dream pop']
+Sun Was High (So Was I),2hc6fCrA3pmmh4EJtzMBs9,Small Black,1J6xqDysFw6YiQ0vMvIKds,Photojournalist b/w Sun Was High (So Was I),0,231680,False,"['chillwave', 'dream pop']"
+Taking Off,298kKazpJHYf8LZaYTwD8n,Beach Fossils,1bwUhKRmEkOZ1wuTnV9XjC,Clash the Truth,0,189051,False,"['dream pop', 'surf rock', 'shoegaze']"
+Mirror To The Fire,00ozHYZoGTa3oaOzvOt7oo,Yumi Zouma,4tPyCwWrsvZ8OKYl7QRavL,Truth or Consequences,0,178584,False,['dream pop']
+Lonely,595AilWVTfMJLQ9Zi30cmP,"Ladyhawke, Radiation City, Chris Farren, Pet Symmetry, Yumi Zouma",5TfnQ0Ai1cEbKY5katFK14,Exquisite Corpse,0,239272,False,[]
+Be the Lighthouse,1AArLFgUZ2FKMlCWsceAuv,Hurt Valley,09jv6b9vGmbMGBf7xxnvSO,Glacial Pace,6,178497,False,[]
+Change Your Mind,4omurqpm7aWH9VVz2Ii4yO,CASTLEBEAT,0k8UHfMqW86uvhmhHiYzj3,CASTLEBEAT,46,297272,False,"['bedroom pop', 'dream pop', 'lo-fi indie']"
+Islands,5HwMuhePwIUpXUv2EI0EiB,Blankenberge,0N9CUdcRxZfnPGAmbkuUrm,More,12,225728,False,"['shoegaze', 'dream pop', 'slowcore']"
+One I Can't Ignore,6W0LWlasbqwMGxn87NLgKh,"The Macrobats, Madde",3HV2XYlEjYYuLM73CZCNpY,One I Can't Ignore,15,252569,False,"['dream pop', 'shoegaze']"
+Rush to Spark,6zsaWF1rdzIRCmWJtcteCs,Foxes In Fiction,3GSt4ZSP1wEtdbcTTbwjpW,Trillium Killer,0,297778,False,"['dream pop', 'shoegaze']"
+Exquisite Tension,69T4iEoAPo1MZ2tv8ppUCW,You'll Never Get to Heaven,1tHzhv6nGl2i5ZaSSFiwK7,Images,0,248295,False,"['dream pop', 'shoegaze']"
+Sigh,0pbpe3m3jK5LKdx3Z5f8KE,The Bilinda Butchers,6TnZQyc6gSnomokLLI8mya,"Regret, Love, Guilt, Dreams",29,312601,False,"['dream pop', 'shoegaze']"
+No Exit,7sTmKNOcJrx8wAnbXuLim1,Tennis,1ybAN3utgdoUL1MUCtH4QM,No Exit,36,234306,False,[]
+All Alone,72xnRXxHiAhTfKSzlPdEmo,Acid Ghost,3DxAikzv8719U68yCVRELD,All Alone,42,168648,False,['dream pop']
+Before,5fGv33bhHGfMkuDxct0CYh,Punchlove,5Tbdx7OG835TPTxnEgfNiW,Terminal,6,266366,False,"['shoegaze', 'dream pop']"
+Off to New York City,6Cbw78matPaaagbsSF1wDN,BOYS,6zapb0SkRhKMinls0g7VPr,American Dream,0,276899,False,['dream pop']
+Girl from Mars,6ZUNNe8T0XAcpyVOMijwQl,Cosmic Child,0AbaYCVaRtwCSxFuRCZHjr,Untitled,18,243000,False,"['shoegaze', 'dream pop', 'chinese indie']"
+海と花束,1LuuEtc0bgoZYm82p79Dzw,Kinokoteikoku,61H9d7hbIfFNxJJQmIL9AJ,はじめてのきのこ帝国 UK.PROJECT編,37,192773,False,"['japanese indie', 'shoegaze', 'j-rock', 'math rock', 'dream pop']"
+night is young,3mALM7a4cLufetyxSUPbl5,yuragi,1Ksf2sRoSTPdLYbGxJ9oms,nightlife,41,344000,False,"['shoegaze', 'japanese indie', 'math rock', 'dream pop', 'j-rock']"
+Doomed,6Pw5gYfLcgU3vm4RoeCyUc,Eyeclimber,0Dufap1ZH2j5MwFsaRAuzV,Doomed,20,168000,False,"['dream pop', 'shoegaze']"
+Riquelme,3OHxoCPpoLDca8Jz0Qb4uV,Yumi Zouma,4tPyCwWrsvZ8OKYl7QRavL,EP,0,162225,False,['dream pop']
+Into,5O408HCYe3tXhyLf5JMjhJ,CASTLEBEAT,0k8UHfMqW86uvhmhHiYzj3,Into,0,239343,False,"['bedroom pop', 'dream pop', 'lo-fi indie']"
+Heavy Days,6Nr8U7LKb4B07ZTbXA1RbX,Still Corners,4zKYrXs8iN4AeHmO8ZxNqp,Heavy Days,0,227683,False,['dream pop']
+Sure,3zdTA309WHMFZo1l6IAiPu,Hatchie,3d7MqowTZa2bC5iy1JXLLt,Sugar & Spice,31,249021,False,"['dream pop', 'shoegaze']"
+Warmth of You,11HCS8E6veZP3Mkf3f5Kal,Planning For Burial,4nhaUpMjrBW8vywsP2yzzD,Below the House,40,213426,False,"['shoegaze', 'slowcore', 'drone metal', 'post-rock', 'drone']"
+Give It Hell,3zLorBeTEnHM5UBd8HuCEd,Yumi Zouma,4tPyCwWrsvZ8OKYl7QRavL,Present Tense,0,204609,False,['dream pop']
+You outside my window,0ptW09x2Qjv00t076WBLWF,Kinokoteikoku,61H9d7hbIfFNxJJQmIL9AJ,フェイクワールドワンダーランド,41,241373,False,"['japanese indie', 'shoegaze', 'j-rock', 'math rock', 'dream pop']"
+not over you,6fdRXMZ4oLpnphUMVZCMfi,conk creet,7LZuHIHDiWfjJxb9FP5cNt,Growing Pains,11,332000,False,"['dream pop', 'shoegaze']"
+10 Mile Stereo,6V1Ha54suZAAoH9vuKznS6,Beach House,56ZTgzPBDge0OvCGgMO3OY,Teen Dream,42,303853,False,['dream pop']
+Preoccupation,1iLKFqMqLpfItPRnRUNacj,Black Marble,6Nii4K84ZzBZS8X2MP8c9t,Preoccupation,12,290689,False,"['cold wave', 'darkwave', 'post-punk', 'dream pop']"
+Solstice,4eHMLCWUBoQxHuI4XM1hv7,Punchlove,5Tbdx7OG835TPTxnEgfNiW,Solstice // Ghost,6,278852,False,"['shoegaze', 'dream pop']"
+"Dream, Ivory",1VqYfdsorchSvhXW6gtBzo,"Dream, Ivory",0qZyvjwZauLmrobrpJmvib,"Dream, Ivory",0,188250,False,[]
+Map of the Stars,3yXnxzAYIyKYCcydaznZu9,My Elephant Ride,66oz0LCiayqk2P0LdlbPia,Beyond The Skin,11,229151,False,[]
+The Met,6A0O01z01HXYZhlrAfvxID,Colatura,281DMYRccJJg8BXz1TIZF5,The Met,8,217866,True,"['dream pop', 'shoegaze']"
+Porcelain,3YKt8wJ7kmDfUY23jhtiwv,Eyeclimber,0Dufap1ZH2j5MwFsaRAuzV,Porcelain,6,204628,False,"['dream pop', 'shoegaze']"
+Pink Funeral,6aoaCEsh9MLMndlL9G28WM,Beach House,56ZTgzPBDge0OvCGgMO3OY,Once Twice Melody,0,296226,False,['dream pop']
+No Tomorrow,7wFCijfJQowBt1sNqhWgZS,Court Etiquette,6WGinyOruoEvfMEHemukyF,No Tomorrow,4,226640,False,"['dream pop', 'shoegaze', 'lo-fi indie']"
+Public Secret,6FfelarA8SE4RpveYxXuRo,Estrada,2GneXHHf3TSS7swhr1uzzE,Public Secret,0,200000,False,"['shoegaze', 'darkwave']"
+Decay,3b6DLf2PTYkrGuPGRhWSXP,Blood Estate,74ILynpls56WeC7FcBq0fF,Decay,6,137808,False,"['slowcore', 'shoegaze']"
+i'm big dumb,3ccsR4VyFNdeQqJTxXRSJA,conk creet,7LZuHIHDiWfjJxb9FP5cNt,i'm big dumb,9,247200,False,"['dream pop', 'shoegaze']"
+"Not Yet, There Is Still One Projectile Left",4XbikCzGo0Zrm6rg9r9jzk,Hayien,757lp5rkqNBZKPLeQ5NugB,"Not Yet, There Is Still One Projectile Left",0,205360,False,"['shoegaze', 'dream pop']"
+May,3hVlV66Z3PfvXwIYOTeZdi,Life On Venus,72cBWuYjXkWxEXqZcoH5kE,Encounters,0,220800,False,"['shoegaze', 'dream pop', 'slowcore']"
+Sleep Forever,7pP1PiLuYDMvWVCbTuasRg,Dreams We've Had,5LkgVE79AHNZN7kMukfJFv,Dear Friend,13,392625,False,['dream pop']
+Can't Forgive,6OrFhhGmqAYsPWryD6b4Ta,Cavves,3dA8LpetFTktijJKirH7gd,Can't Forgive,7,156879,False,"['vaporwave', 'shoegaze', 'dream pop']"
+rise,7zI7COP0QX8SrmEVlRCzJz,sugar plant,0KrBZKq6kpcv9N0vBesN8o,Happy,30,431333,False,"['shibuya-kei', 'shoegaze', 'dream pop', 'japanese indie', 'slowcore']"
+Dancing to The Smiths,6RSDI2ms9CHIvOnrYzxluR,Hana Eid,4F6hNOg84kZIkE5LvLYOsr,Dancing to The Smiths,30,259066,True,[]
+bckwards 36,0wDR2zmN1TCYrXONqNcsWj,cruush,09SorScmrKs8yZMG9hdr6N,bckwards 36,9,237511,False,"['shoegaze', 'dream pop']"
+honeydew blue,60fpp48C0mbRkRNv8m3WLv,800 cherries,47mrO8UvhD1Qt6iAIy4fCO,Romantico,31,217373,False,['shibuya-kei']
+Right Now,5x7Xbw7khyGRjFSlEUenUm,Blankenberge,0N9CUdcRxZfnPGAmbkuUrm,More,12,272530,False,"['shoegaze', 'dream pop', 'slowcore']"
+Escalators to the Moon,26uHXNWafzDn8SkYB7fZ2r,Bloodbath64,5ilLeYincegfCyjqxGXUW4,Aestheticadelica,39,219500,False,[]
+Grounded,69moAh6nFUQzBi5lfBJcV0,Trementina,0DM3M5xGKVaO7MNFBH3K0X,Almost Reach the Sun,18,286917,False,"['shoegaze', 'dream pop', 'slowcore']"
+Waltzing Back,3Q1DprZauQyNo8KGlY8brZ,No Vacation,32zeX1IoVKAGWMyy1isKUq,Waltzing Back,0,192000,False,"['bedroom pop', 'dream pop']"
+Glue,3kqG4FUlzH2sE1zFn9L7OR,Doused,47jpNKqk6XBIcvSWK76Y1c,Murmur,25,140318,False,"['shoegaze', 'dream pop', 'slowcore']"
+Plants,0vMr3GXZJi1IIIWE8bBJuZ,Crumb,4kSGbjWGxTchKpIxXPJv0B,Locket,52,191904,False,"['neo-psychedelic', 'bedroom pop']"
+Purpose,0LqzKh0IljbOTwKEG15q97,Sonoda,5OcA113uaLxGSU00Nkaaje,Purpose,0,249204,False,"['dream pop', 'shoegaze']"
+Feel Better,2AENUpRtIxQ5tnk10SaxKL,Rosemary Fairweather,4I4taY0pRzBIGmIgsBqcrE,Feel Better,0,202506,False,[]
+Stars Collide,575Ey6z5iNmWI52iNtyVZh,Deafcult,6AX5hnjYSvcjZd9IyqYPsp,Auras,4,249000,False,"['shoegaze', 'dream pop', 'slowcore']"
+Always On Time,1Afd5dLyIGTJU69CdNlaGG,COOL HEAT,3HZXI7lDa69dWCj8jbBpjG,Always On Time,20,147517,False,"['dream pop', 'shoegaze', 'lo-fi indie']"
+I Want To,30ZUJcx1YtPXuvfcCB0Y3e,Starling,1CD5G3Yqzu1TpkqpxWFGFC,I Want To,0,306283,False,"['shoegaze', 'dream pop', 'slowcore']"
+Past Lives,1MkAO4seLIDrU20w0RkisU,Kekko,3G2anXv3ry6BJ8abIDC0QN,Dreaming Life,37,232250,False,"['dream pop', 'shoegaze']"
+"In Sound, We Found Each Other",63jvmVQ8gIQ8NdMX5HEKEE,Sweet Trip,5NtMqQLCzdVvL7F8vFp3zM,"Little Darla Has a Treat for You, Vol. 30",36,272320,False,"['shoegaze', 'dream pop', 'idm']"
+Eye to Eye,3HrU7VEECBx1ewUgxRu5xu,Bodywash,7mpsiMuz8gkLsEg8WVDQq7,Eye to Eye,0,284719,False,"['shoegaze', 'dream pop']"
+Shawshank,13gKSPSKURLYuy92ubSbFq,Mumrunner,6XAvWDUcwUeNMG1Msc3PEG,Shawshank,10,260239,False,"['shoegaze', 'dream pop']"
+Still Still,5PM5PTTrxAXyUmY9JU9qmN,Lucid Express,0WwjT0WO2JQSXIq7EeDxXf,Ado,13,211150,False,"['shoegaze', 'dream pop', 'chinese indie']"
+Passerby,4Xi7V0b226jbmms7I9uZZr,kelz,5hb3nmzCwPz0GRlLQuAJJw,Passerby,0,273033,True,[]
+Mess,7Icyf6awUQ4WnuUPL86xeG,She's In Parties,3A9BLI8S2rNSxXS3QsMkOY,Mess,16,258500,False,[]
+Flood in Heaven,2KqKu9seZepmo9uKo6VyD8,The Daysleepers,1geEJC0mAf9bjfmYCffS9F,Creation,31,301224,False,"['shoegaze', 'dream pop', 'slowcore']"
+Regular Disease,41KOeMJyeNMzXXMFURLqMv,Blind Mr. Jones,1rlDsPo1oKph7bAtq4Pxr9,Stereo Musicale,0,250933,False,"['shoegaze', 'dream pop', 'neo-psychedelic', 'slowcore']"
+Paralysis by Analysis,2lxKEd14HqvyH5oj1E3xxV,Day & Dream,2cB4AbPWgZNeZq3zXVdnLN,Fading Summer,11,146266,False,"['dream pop', 'shoegaze']"
+Felt Like Home,2hMNfrmuOjAghUiUnPbFxT,TEEN BLUSH,1XW51qY5zDq92npZ5fHNRl,Felt Like Home,46,202105,False,['dream pop']
+Temps,5jh147eWeuNyimT2Oo1A5J,Mellow Gang,048vFxJzjmNds1zJjeZ3mP,Temps,24,226577,False,['dream pop']
+Blue,1dtLFRRmiGg2nBaV4Rg9Ux,Far Caspian,0EzsHuJxUDcfqSqvoPhKG4,Between Days,49,205785,False,"['lo-fi indie', 'dream pop']"
+Skin,07iFZgCmzSuGFlKG3ftJX3,Bored at My Grandmas House,0hQ6Js0CTBu337vggHinhk,Skin,0,225140,False,"['dream pop', 'shoegaze']"
+Faces,5OMp32hhcSCvKITpudjjlv,No Swoon,3th2nHK122HxCbpATSNXfp,No Swoon,29,295251,False,"['dream pop', 'shoegaze']"
+Firefly,5Fmk7akgjEpRI4vvu7CQ2m,"Airiel, Stella Tran",1WOhabhnnH1k6KcD81xGD1,Winks & Kisses: Melted,0,385533,False,"['shoegaze', 'dream pop', 'slowcore']"
+L'Inconnue,1bs7Igp2djzz9aWDbEkfYA,Beach House,56ZTgzPBDge0OvCGgMO3OY,7,37,264746,False,['dream pop']
+Starting Over,0dcu28YT8cXZH7JTIraszp,LSD and the Search for God,2feOOr1Yjovo67byuxvjZv,LSD and the Search for God,64,304240,False,"['shoegaze', 'dream pop', 'slowcore']"
+Desire Lines,63JP68VirmCXtWRoMTX8Xi,Lush,3ysp8GwsheDcBxP9q65lBg,Split,0,459506,False,"['shoegaze', 'dream pop', 'britpop', 'slowcore']"
+Last Night's Haze,6P8FKtzzxYE2cNy2kRgzFV,Star Horse,1zC23cF77Lj7ukFsy19nor,Devour,35,209000,False,"['shoegaze', 'dream pop', 'slowcore']"
+Try to Hide,0nj8byYnmEojNsm3nbAIax,Tennis System,2ChSBG1Njjt2SQ2Lt5dziF,Technicolour Blind,9,323467,False,"['shoegaze', 'dream pop']"
+Forget It,57IGLLjpk4CVexlspqOawg,Widowspeak,5ZW7HlSuZz8ng2X21cXbdP,The Jacket,24,206254,False,"['dream pop', 'chillwave']"
+For Light,3o2JcCmfnw5d45pWy8BYHu,Jay Som,1wmiQ6ytATiGnJs6uFluKO,Everybody Works,0,442640,False,"['dream pop', 'indie pop']"
+In The Eyes Of Our Love,6LQcFrduZod8SaXNg8BK8z,Yumi Zouma,4tPyCwWrsvZ8OKYl7QRavL,Present Tense,0,208978,False,['dream pop']
+through,62DeK5SgEqY3OjcZLPjnh8,800 cherries,47mrO8UvhD1Qt6iAIy4fCO,Romantico,25,347626,False,['shibuya-kei']
+Weekend,6zRQXP7UbHHXwEbe1NaN1k,Lauds,1GyeDyYxWoVscUNx7dzHUz,II,5,179743,False,"['dream pop', 'shoegaze', 'jangle pop']"
+Bike,7ImWMtUZwcnCDGwJKy6br4,It Looks Sad.,24M8W1AklCxyWTKjrJZDQ8,Sky Lake,0,148917,False,"['midwest emo', 'math rock']"
+Morsel Code,5X5qE3xo5UR8auMyJgPVzR,Column,4lAk1EpBbxg4jIS0AcerHp,A Year in Your Garden,17,224199,False,[]
+Afterglow,1obYgmAEYuJve71L7r43oP,Draa,0isgDsD0CAFqoMJg2EwxIC,Draa - EP,10,282440,False,"['dream pop', 'post-punk']"
+Lazy Lovers,223R25sVUNY4QCvA7XjkNk,Trementina,0DM3M5xGKVaO7MNFBH3K0X,Almost Reach the Sun,19,237087,False,"['shoegaze', 'dream pop', 'slowcore']"
+Liar,7L3HY8vkvQ47LuzOYbkZGN,Midwife,5vjIHa1u3TnOlDvVDR9qQa,"Like Author, Like Daughter",14,279497,False,"['slowcore', 'shoegaze', 'dream pop']"
+Desert Son,2PaIdVLUvoetIBE4J4vPbY,Leave the Planet,6vW6YgP4ZCF8wED7yAuQyk,Nowhere,8,221653,False,"['shoegaze', 'dream pop']"
+Around the Sun,7uHPeQJmdhQMW32Jlyfsmr,Life On Venus,72cBWuYjXkWxEXqZcoH5kE,Encounters,0,150000,False,"['shoegaze', 'dream pop', 'slowcore']"
+Punch,1fSS7Mc15YNRuBOsTjyEaw,Teethe,3K2gErmF9xLdo6dqOj1VbI,Teethe,31,180000,False,"['slowcore', 'shoegaze']"
+Minute In Your Mind,1ztljnhex2kExHZlSQIvs8,Girlpool,3BYXi96LqI8TwNljFKE0DZ,What Chaos Is Imaginary,11,141276,False,['riot grrrl']
+Dozen,0dQV4vdauTQMbBLgC86EM2,Alison's Halo,1xD4rzgPGOwrc7RHZywzKg,Eyedazzler,0,312537,False,"['shoegaze', 'dream pop', 'slowcore']"
+Low Tide,7de72dRB2KvNzwVXYBqFHF,The Bilinda Butchers,6TnZQyc6gSnomokLLI8mya,Goodbyes,31,222783,False,"['dream pop', 'shoegaze']"
+Tiny Gaze,5lIfFxH4PJeqjwDLfORZ0z,Stove,4rkMcjdyDpeG57mT7lZNKs,Is a Toad in the Rain,0,176085,False,['shoegaze']
+Adore the Distance,0exjXziLpfBAs3QppeYUzo,Soft Blue Shimmer,5ZclZsMoBdRY9MJw6l47Fx,Heaven Inches Away,21,277191,False,"['shoegaze', 'dream pop']"
+Forever,2czsyBO2UuK9KNWDeNGZC8,Long Beard,3truyDimkGtu58fxQj9Xv9,Means To Me,0,245512,False,['dream pop']
+Cosmic Realignment,2JPZFolVoxO4XU3SJH89tZ,Subsonic Eye,6nRhwtv2bwuDvPijPCjcie,Strawberry Feels,33,223804,False,"['shoegaze', 'dream pop']"
+Amber,3LG0fOHDELxUJadCiGpyCF,Golden Daze,4T3jyyAF02vNapy2bdzMjn,Simpatico,30,197840,False,['lo-fi indie']
+R U Content,3Gh8L6ULIiFV7AmNlcDHRx,Colatura,281DMYRccJJg8BXz1TIZF5,And Then I'll Be Happy,14,204466,False,"['dream pop', 'shoegaze']"
+Molly,55J97YT1SRzkNGpwm45qSu,BEX,0JMfBNsJyhVafPyD5uAcuX,Molly,6,225541,False,"['dream pop', 'shoegaze']"
+New Media,7IEw63s69ccxaEZzUsX3Xj,Slow Pulp,2JFTRDi5v7JtqoouVe1z5D,Big Day,48,191000,False,[]
+Fine for Now,59OB1FVylpLOfwUwwZBBqf,Tape Waves,2mq6FZouZP3sgcUIfIWOko,Here to Fade,7,193593,False,"['dream pop', 'shoegaze', 'surf rock']"
+The Dreamers,01aponripySMrxA2XTXjkV,Gold Celeste,0k7JGk03ntbFvfURT2hWmu,The Glow,0,286551,False,['neo-psychedelic']
+The Monster,5rFLueCMLuVI4Jxp7coerG,From Indian Lakes,3YvQkjWJ5ykJVUNP7YbTy9,Everything Feels Better Now,29,218900,False,[]
+Swimming,0qZngsBTYM37fevbe03IlX,Lunar Vacation,7EEefVBNBS3ckwouEl62oB,Swell,42,280251,False,[]
+Yellow House,53USlfdBOnCsORa3fJ6Rxb,Orchid Mantis,6Yt4jPVBqhLFQcNM0dSZtq,Yellow House,15,275384,False,"['slowcore', 'dream pop', 'lo-fi indie']"
+Lemon Tree,5udm5l5aFlUDg9i5vU4A0B,BEX,0JMfBNsJyhVafPyD5uAcuX,Move It Or Lose It,5,231210,False,"['dream pop', 'shoegaze']"
+Nihilist Kite Flyer,0WgwG41CeaJt21sCUHiSIy,Loving,4ftctxasGrW5Ud5Pbw6kWq,If I Am Only My Thoughts,0,182878,False,[]
+Beer and Skittles,6isgkCGX8e47Z9vl6WHebB,Japanese Heart Software,2anrtCF3IhozMpTAfpzJnx,Soft,19,264438,False,"['shoegaze', 'dream pop']"
+Dreamlessness,60PUlg3G6mSuA8pB5Bjgdw,Mouse,1gZjjas3x9FxrIz8VF5bbo,Dreamlessness,7,233000,False,['shoegaze']
+House Of Mirrors,3zFqzq75hxehVM6DkCSORU,Softcult,13pYXGtaLO9d06VrXX4Aw0,House Of Mirrors,32,191072,False,"['shoegaze', 'dream pop', 'riot grrrl']"
+Near,2nznScQCuL4r9OKMr4A7qc,Deafheaven,4XpPveeg7RuYS3CgLo75t9,Ordinary Corrupt Human Love,37,328642,False,"['black metal', 'shoegaze', 'post-rock']"
+Pharmacist,5A6E9uhiiRyJ8OSYQ0IRdt,Alvvays,3kzwYV3OCB010YfXMF0Avt,Pharmacist,0,124247,False,"['dream pop', 'shoegaze', 'jangle pop', 'indie']"
+Crushin,7zycM9Qcin9tyU4xB0Jj3I,Film School,3Q5JOuj2Zs59ujPp1njIWS,Bright to Death,36,230933,False,"['shoegaze', 'dream pop']"
+Magic Light,5c0fozcpxmj8jV2BhfvUY8,Star Horse,1zC23cF77Lj7ukFsy19nor,Devour,14,247636,False,"['shoegaze', 'dream pop', 'slowcore']"
+Off Your Face,7hrQx8C3rT5R447bmNnq5Y,my bloody valentine,3G3Gdm0ZRAOxLrbyjfhii5,Glider,44,255426,False,"['shoegaze', 'dream pop', 'slowcore', 'noise rock']"
+Please (Proceed),0BWUUT2MvwUOQidoOxtwfF,Blue Vedder,7fUeMW62Gm7y2DOPrwrmrJ,Please (Proceed),10,180223,False,"['shoegaze', 'dream pop']"
+All The Time,1u8xwmcIdld5n99GcQDuOs,Suiix,3yp1rVgQQbozQWvDk30JKO,All The Time,8,232160,False,"['dream pop', 'shoegaze']"
+don't give me grapes,3CpUfVYoeman5Ceki0AVkI,Happy Doghouse,2vYPcNSAbcEHwZdddbj2xn,Above the Stars,0,187993,False,['egg punk']
+Chromatic Nights,4vGDSgcS7YHnRtZlM8pWph,Pia Fraus,15cjYStG6SRmTS9d5wNVxT,Nature Heart Software,22,184993,False,"['shoegaze', 'dream pop', 'slowcore']"
+Prism of Feeling,4skeJN6yWo5wSRgPjRNFUp,Soft Blue Shimmer,5ZclZsMoBdRY9MJw6l47Fx,Prism of Feeling,11,285900,False,"['shoegaze', 'dream pop']"
+Go and Come Back,2gF3wvkKkkuAXGFzAPUBSa,Fleeting Joys,314EDjJCQdcNfzwefA7daH,Despondent Transponder,42,270094,False,"['shoegaze', 'dream pop', 'slowcore']"
+Vessel,0mTGWYKRsvKBRk6DsDHfTT,waveform*,6g12mLVmai580Y6SQnGjcd,Shooting Star,11,161941,False,"['slowcore', 'shoegaze', 'lo-fi indie']"
+Keep You Close,0yc4bo6GUkb6BhzfKqEd3w,"Launder, Soko",34oS6XgB17t0Gm7623KXLh,Pink Cloud,14,222596,False,"['shoegaze', 'dream pop', 'lo-fi indie']"
+Tork,5Qi8sL3cPDEh2LrdjqK3ph,Indecisive,4TsormHir8ALq1K6wX0iDa,Over King's Creek,4,253373,False,"['dream pop', 'shoegaze']"
+Technicolour Blind,19i0n5BUaXpRzhUUqWYMM7,Tennis System,2ChSBG1Njjt2SQ2Lt5dziF,Technicolour Blind,6,352255,False,"['shoegaze', 'dream pop']"
+False Start,6vacYnJcKuHCbzok7QYhaY,cruush,09SorScmrKs8yZMG9hdr6N,False Start,10,266093,False,"['shoegaze', 'dream pop']"
+Rubix,5Fm6AO50RzXV2tQPb9I0v0,Deafcult,6AX5hnjYSvcjZd9IyqYPsp,Auras,11,190880,False,"['shoegaze', 'dream pop', 'slowcore']"
+What I Want,6Io2THanzgOrIAoYS2LZbo,Cende,20qX3cQlCJME6SjcCOLlpI,#1 Hit Single,0,285029,False,[]
+Love Being,6Y9bhgrbne2ITypFY4bBiE,Soft Blue Shimmer,5ZclZsMoBdRY9MJw6l47Fx,Love Being,6,257112,False,"['shoegaze', 'dream pop']"
+Everything,20xDbepYlgdH63vlVVUb0e,Blankenberge,0N9CUdcRxZfnPGAmbkuUrm,Everything,20,256446,False,"['shoegaze', 'dream pop', 'slowcore']"
+Season of the Shark,0xSn8K45u9yOIDZysjwz20,Say Sue Me,4tvbo17gXpYgSr8sTlkaby,10,16,278560,False,"['dream pop', 'jangle pop']"
+Venture,055a4S701SWymem8rtYLVy,Lucid Express,0WwjT0WO2JQSXIq7EeDxXf,Floret,12,297882,False,"['shoegaze', 'dream pop', 'chinese indie']"
+24,1NWezW3YWytFOwSOQ5ZWoI,Lauds,1GyeDyYxWoVscUNx7dzHUz,24,5,235413,False,"['dream pop', 'shoegaze', 'jangle pop']"
+Relay,3vuG06ETVyqQlxW2wbBVjg,trauma ray,7mhFqGccO5U4pn90mix9S1,[trauma ray],53,202747,False,"['shoegaze', 'slowcore']"
+Stickers,4uKfukUKqgEnEt5asFocv9,Sleep ∞ Over,5xs5V9DtIYERtZIsa4gcnv,Forever,22,222919,False,"['witch house', 'chillwave', 'dream pop']"
+Ease,5iCNhiucTLYkVLvDEdlCgb,Doused,47jpNKqk6XBIcvSWK76Y1c,Murmur,21,198902,False,"['shoegaze', 'dream pop', 'slowcore']"
+Shrapnel,1ADmIBKMDRcs6Cfj2Xe0XJ,Hana Eid,4F6hNOg84kZIkE5LvLYOsr,Shrapnel,19,215250,False,[]
+Myth,2Zw3HNjaNV42LnQ2uY5JQs,Beach House,56ZTgzPBDge0OvCGgMO3OY,Bloom,59,258653,False,['dream pop']
+Drunk Voicemail,78Cp2OMPai18kVYkd22bAF,Midge,3Szx6c1dahPJXqH4QJjCx1,Drunk Voicemail,5,227230,True,"['dream pop', 'shoegaze']"
+Eat You Alive,1GnhDPcve5uOz4K8StzHtX,Tokyo Tea Room,3lzTKwFsOqxtp5cLJ2qbSD,Eat You Alive,47,190000,False,['dream pop']
+Devil's Pool,49YNqlIbBD2c41o3Oc0vK4,Beach House,56ZTgzPBDge0OvCGgMO3OY,Become,40,240120,False,['dream pop']
+Don’t Delete The Kisses,1LomCMl5wD3MPVlC6smUHe,Wolf Alice,3btzEQD6sugImIHPMRgkwV,Visions Of A Life,67,275226,False,['indie']
+Love Song,3rQaxZaozQfrUEQx1PzT14,Softcult,13pYXGtaLO9d06VrXX4Aw0,Love Song,39,171563,False,"['shoegaze', 'dream pop', 'riot grrrl']"
+Recycle,30bPsTvD3ikvd5IvRudsPI,loren north,2rBIJIECWuDEzaiewMf0Kr,Recycle,30,204342,False,[]
+Lullaby,4iOhHhNggDeRP575hUHedH,CD Ghost,0wGf1OZAg2ihGB9BaFkqMn,Dreams We Share,28,141255,False,"['dream pop', 'darkwave']"
+Forever,579zXcYm2N9vvsltW2RDJP,Night Tapes,5APEQlUaQ5K70LgPqAdTuU,Forever,0,249968,False,"['lo-fi indie', 'dream pop']"
+I'd stay forever,1ENjSTAGfgBUyVZuSl4zIY,whither,1j5n8v8YxdS8FrMjauRn8j,I'd stay forever,0,271058,False,['shoegaze']
+summer bruises,2fjE9A6haImVXETd1B4PDs,april june,4WreACyfQITcXGx86xxYkG,summer bruises,0,174387,False,"['lo-fi indie', 'dream pop']"
+Radiolove,60c53oKZjSyWUNCrQJ49Bt,Tanukichan,7d0wUlQ0ZXIGFa0YzuBiR6,Radiolove,41,170955,False,"['shoegaze', 'dream pop']"
+Sweetness and Light,1Pr2b8WV0rFkSAjrnzUeDc,Lush,3ysp8GwsheDcBxP9q65lBg,Gala,43,317093,False,"['shoegaze', 'dream pop', 'britpop', 'slowcore']"
+smile again,596IkZP89HvFYdgOb3lNvP,she's green,42IX4MHpnREqy3N7HugkLY,smile again,53,235055,False,"['shoegaze', 'dream pop']"
+Sea Legs,6X49AzMOL4WQHlNg2nAWSe,atmos bloom,5F6pjXWILFr4XnOngaKyo3,Sea Legs,28,177700,False,"['dream pop', 'shoegaze']"
+Le Temple Volant,2uQotduUA32t7EwTEMvMyb,"Crumb, Melody's Echo Chamber",4kSGbjWGxTchKpIxXPJv0B,Le Temple Volant,41,125893,False,"['neo-psychedelic', 'bedroom pop']"
+Amber,4IL1YB0CKiX4e9gbodOJBZ,Jo's Moving Day,5QbCnoIsxQ3nsxkHkwftgt,Itinerary,23,329875,False,"['shoegaze', 'chinese indie', 'dream pop', 'chinese rock', 'taiwanese indie']"
+Leather,4JV9iLdrBbBkwo0qMfYJ5S,Blue Vedder,7fUeMW62Gm7y2DOPrwrmrJ,Leather,10,195261,False,"['shoegaze', 'dream pop']"
+be okay,7KIyjTDMad8HvLj5IKBffs,Yumi Zouma,4tPyCwWrsvZ8OKYl7QRavL,be okay,17,236787,True,['dream pop']
+Dead Lands,4bFyukeX4nCR9BEY1iuhps,Punchlove,5Tbdx7OG835TPTxnEgfNiW,Dead Lands,18,274714,False,"['shoegaze', 'dream pop']"
+Your face,7ne2hzW4jaU5tacaCI4kJH,Wisp,3TJZG17pjOKXwx1ELKJPfm,Your face,14,227426,False,['shoegaze']
+Violets,0ldHaEnSxsSpC1pYa1Vtl6,Eyeclimber,0Dufap1ZH2j5MwFsaRAuzV,Violets,13,177465,False,"['dream pop', 'shoegaze']"
+Falling Down a Mystery Hillside,2DZisSfv1rQ3O5CBLws3sK,Starling,3GijhGwufdqy5x7bfsS6AW,Falling Down a Mystery Hillside,0,154235,False,[]
+I'd Like to Say,0PliQPq7GT7vuShXU61x03,Innsbruck,5gqXwWsq0pvQUCidIjOj5u,Little Drop of Poison,9,222000,False,"['shoegaze', 'dream pop']"
+Magnetic Hill,1G6ZnfgxEBhSWd6WO2EB4s,Land of Talk,0mEF6nwliNqJuMldWFPuvo,Magnetic Hill,5,266546,False,[]
+Place in the Sun,65UDqRVBShlxTOwQtKkfUm,Glimmer,4ldTJbQ7TIIjZYgUtH5RwT,Place in the Sun,12,228349,False,"['shoegaze', 'dream pop']"
+Haunt You Still,7hLYnfqZ8IlIMxjdTkRFxO,Softcult,13pYXGtaLO9d06VrXX4Aw0,Heaven,26,242515,False,"['shoegaze', 'dream pop', 'riot grrrl']"
+Little While,73B21p60Izq74AFwGNhzR7,Wishy,1TkiNxDsrc0PgIWBrATCbe,Triple Seven,28,278493,False,"['shoegaze', 'dream pop']"
+do you miss her,0eBWL3s1UmZNSZBcy34l6J,Colatura,281DMYRccJJg8BXz1TIZF5,do you miss her,36,234397,False,"['dream pop', 'shoegaze']"
+Honeycomb,00rcoBUdF2W90roBxkS5cG,Heel,6663RkcENJxc1KnuKZaRla,Honeycomb // Snatch,9,356565,False,"['shoegaze', 'dream pop']"
+Turn Into,3bhaEugV9wBPXhxX0p2uYX,Jay Som,1wmiQ6ytATiGnJs6uFluKO,Turn Into,28,203536,False,"['dream pop', 'indie pop']"
+lazim alshams - لازم الشمس,4yYw0lE2CJOwwymaob3hX1,nabeel - نبيل,2utvoANtAeOGBklKqppZIl,lazim alshams - لازم الشمس,37,241935,False,['shoegaze']
+lick the star,1X8E5Ad67vg9bNVRAuNHtX,Glixen,3eimPofmo9TuKJTgpM9Bcj,lick the star,34,317985,False,"['shoegaze', 'slowcore']"
+quiet considerations,4FqAv5twjda2qgyp3hqunT,la lune,5hAeBiMGwnoFDNf7jB0mdl,quiet considerations,15,163165,False,['shoegaze']
+Washed,5WZNVZvxQI7Wg3ME4hznV4,Lauds,1GyeDyYxWoVscUNx7dzHUz,Washed,13,166000,False,"['dream pop', 'shoegaze', 'jangle pop']"
+doxepin,4FAOQdOpMAu3d15KEWXMng,copperplate,33gqAcq77ntKPjmks6HLGD,contentment,17,265097,False,"['dream pop', 'shoegaze']"
+a.m.,3iHDfrkDiR8XBdagsZKsXD,Bathrobe,3foMz8RVrSAv8gBRE4ecyQ,scary movies,18,201000,False,"['dream pop', 'shoegaze', 'slowcore', 'lo-fi indie']"
+I Wanna Get Better,4ELG7XkebKpAFX80Czdwmd,Colatura,281DMYRccJJg8BXz1TIZF5,I Wanna Get Better,29,239041,False,"['dream pop', 'shoegaze']"
+2 Soon 2 Tell,6b9B6v1U2eXO5gLvQOC0pu,Glare,2dXj6aC3DsxoTDyhk3u4gl,Sunset Funeral,37,192859,False,"['shoegaze', 'slowcore']"
+Cherry Pie,20bn8UrHSGODum7utPZhgB,Fazerdaze,2awB7Ol181cocZcLLNBBAh,Soft Power,36,249186,False,"['dream pop', 'shoegaze']"
+Get back to me,3YxMOcoa7ogJlG4e6zyJwm,Wisp,3TJZG17pjOKXwx1ELKJPfm,Get back to me,41,190441,False,['shoegaze']
+Pill To Swallow,1zFDTVldgGkboCG98c91d6,Softcult,13pYXGtaLO9d06VrXX4Aw0,Pill To Swallow,35,222664,False,"['shoegaze', 'dream pop', 'riot grrrl']"
+expressionless,0aXLRXrribyzRhOjEonPeD,la lune,5hAeBiMGwnoFDNf7jB0mdl,expressionless,12,178304,False,['shoegaze']
+Always,50MJMElz3rtuIT3wtunt1G,Pink Breath of Heaven,1ygblEoH4n9IHwIaL2QbIp,Colors Make a Sound,18,241363,False,['shoegaze']
+Stonefly,6uv3mwUvxsS2q8T7yhQuDs,Maria Somerville,5JjgffJf4s4KF29xdEaAQd,Luster,32,217320,False,[]
+come closer,6n1bMD1OYkhfN9B5sQYjg8,copperplate,33gqAcq77ntKPjmks6HLGD,contentment,55,222799,False,"['dream pop', 'shoegaze']"
+It Gets Easier,7C2bncZ2xUWmAIsfeukLhG,"Tanukichan, Wisp",7d0wUlQ0ZXIGFa0YzuBiR6,Circles,40,155773,False,"['shoegaze', 'dream pop']"
+If I Come Home,1pqrOSuEubjirB4OyBNHPm,rozey,20fOKcudXS3Yyl6ifwXf2u,If I Come Home,23,216145,False,"['shoegaze', 'dream pop']"
+Bet,2MpWd718bmGUu7xXjrRtsb,Hana Eid,4F6hNOg84kZIkE5LvLYOsr,Bet,30,241684,True,[]
+(Every Time I Think About You) It's About Me,5stsvdWcj7wHpSNalY75w0,Colatura,281DMYRccJJg8BXz1TIZF5,(Every Time I Think About You) It's About Me,32,208423,False,"['dream pop', 'shoegaze']"
+Star Inside the Earth,0Rft1X2yTA2LXEMGNBIjr5,fantasy of a broken heart,7fgs0Ym1ukMZDgKjx8mbMe,Chaos Practitioner,16,134031,False,[]
+Baby Blue,5Tt63qlnIHU7B3L1XwxXdQ,Hazel English,1nEGjL7aMVdNQzsfQPKdGr,Baby Blue,41,252769,False,['dream pop']
+With Only Your Mouth,7cpQwNcUnqqzIRCluyD4ry,Love Spells,5iiqhuffUTPEOjAUDj19IW,With Only Your Mouth,50,183564,False,[]
+Swallows,1CRP7KciFH1reIOS12JFiA,Hana Eid,4F6hNOg84kZIkE5LvLYOsr,Swallows,31,204073,False,[]
